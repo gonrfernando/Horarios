@@ -1,0 +1,1229 @@
+{
+  "Calculo Integral - MAF1121": {
+    "Grupo: MAF1121A": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF1121A2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF1121B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF1121D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121D2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121D3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121D4": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121E2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121E3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121E4": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121E5": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1121F": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1121F2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1121F3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1121F4": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1121F5": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1121G": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1121G2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1121H": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF1121H2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF1121H3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF1121I": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF1121K": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    }
+  },
+  "Fisica Universitaria - MAF3904": {
+    "Grupo: MAF3904B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF3904C": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF3904C2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904E2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904G": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF3904H": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF3904H2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF3904J": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF3904M": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: MAF3904O2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
+  "Probabilidad y Estadistica - MAF092": {
+    "Grupo: MAF092G": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF092A": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF092B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF092B2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF092D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF092E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF092E2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF092F": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF092F2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF092H": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF092I": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF092J": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF092K": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    }
+  },
+  "Bases de Datos Relacionales - ESI3892": {
+    "Grupo: ESI3892A": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3892A2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3892B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3892B2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3892H": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: ESI3892N": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: ESI3892N2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: ESI3892O": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: ESI3892O2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: ESI3892P": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 20,
+          "hora-fin": 22
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 20,
+          "hora-fin": 22
+        }
+      ]
+    }
+  },
+  "Logica y Estructuras Discretas - ESI3911": {
+    "Grupo: ESI3911A": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3911B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3911B2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3911D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3911E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3911E2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3911G": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: ESI3911H": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    }
+  },
+  "Programacion Estructurada - ESI3127": {
+    "Grupo: ESI3127A": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3127B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3127B2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3127D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3127E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3127F": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: ESI3127G": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: ESI3127H": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: ESI3127I": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: ESI3127K": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    }
+  }
+}
