@@ -9,13 +9,14 @@ nombres = {
     "ESI3892" : "Bases de Datos Relacionales",
     "ESI3911" : "Logica y Estructuras Discretas",
     "ESI3127" : "Programacion Estructurada",
+    "DFH02" : "Etica, Identidad y Profesion"
 }
 
 def clean_text(t):
     return " ".join(t.split()).strip()
 
 def extract_codigo(text):
-    match = re.search(r"[A-Z]{3}\d{3,4}", text.upper())
+    match = re.search(r"[A-Z]{3}\d{2,4}", text.upper())
     return match.group(0) if match else None
 
 def parse_horario(text):

@@ -7,6 +7,7 @@ function drawCalendar(selected_groups, materias) {
         const codigo = grupo.dataset.codigo;
         const grupoNombre = grupo.textContent.split(" - ")[0];
         const sesiones = materias[codigo][grupoNombre]?.sesiones;
+        var message = "";
         sesiones.forEach(sesion => {
             const horaInicio = sesion["hora-inicio"];
             const horaFin = sesion["hora-fin"];
@@ -14,8 +15,7 @@ function drawCalendar(selected_groups, materias) {
 
             const sessioncell = calendarTable.querySelector(`td[data-day='${dia-1}'][data-hour='${horaInicio}']`);
             if (sessioncell && sessioncell.textContent.trim() !== "") {
-                alert(`Conflicto de horario detectado: ${codigo} - ${grupoNombre} el día ${dia} a las ${horaInicio}:00.`);
-    
+                if(message=="") message += `El grupo ${grupoNombre} del código ${codigo} tiene un conflicto de horario con otra materia seleccionada.\n`;
                 selected_groups.splice(index, 1);
                 drawCalendar(selected_groups, materias);
                 grupo.remove();
@@ -24,8 +24,9 @@ function drawCalendar(selected_groups, materias) {
             if (sessioncell) {
                 const sessionDiv = document.createElement("div");
                 sessionDiv.className = "session";
-                nombre = codigo
-                sessionDiv.textContent = `${codigo} - ${grupoNombre}`;
+                sessionDiv.style = "background-color: #555555; padding: 5px; border-radius: 4px;";
+                nombre = codigo.split("-")[0].trim();
+                sessionDiv.innerHTML = `${nombre}<br>${grupoNombre}`;
                 sessioncell.appendChild(sessionDiv);
             }
             if (horaFin == horaInicio+4) {
@@ -38,6 +39,9 @@ function drawCalendar(selected_groups, materias) {
                 }
             }
         });
+        if (message !== "") {
+            alert(message);
+        }
     });
 }
 
@@ -54,9 +58,16 @@ document.addEventListener("DOMContentLoaded", async () => {
         li.style = "width: 100%;";  
         li.style.cursor = "pointer";
 
+
         const gruposContainer = document.createElement("ul");
         gruposContainer.className = "list-group mt-2";
         gruposContainer.style.display = "none";
+        gruposContainer.style.maxHeight = "300px";
+        gruposContainer.style.overflowY = "auto";
+        gruposContainer.style.marginBottom = "10px";
+        gruposContainer.style.backgroundColor = "#292929";
+        gruposContainer.style.padding = "10px";
+        
 
         Object.entries(grupos).forEach(([grupoNombre, info]) => {
             const grupoItem = document.createElement("li");
@@ -65,6 +76,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                 display: flex;
                 flex-direction: column;
                 align-items: flex-start;
+                cursor: pointer;
             `;
 
             const grupoNombreElement = document.createElement("span");
@@ -76,7 +88,6 @@ document.addEventListener("DOMContentLoaded", async () => {
             const calendarTable = document.getElementById("calendar-body");
             grupoItem.className = "list-group-item";
 
-            // Convertir sesiones a texto legible
             const diaNombres = ["", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"];
             let sesionesTxt = "Sin horario";
 
@@ -92,7 +103,6 @@ document.addEventListener("DOMContentLoaded", async () => {
             grupoNombreElement.textContent = `${grupoNombre} - ${info.profesor}`;
             sesionHorarioElement.textContent = sesionesTxt;
 
-            // Añadir los elementos al grupo
             grupoItemDiv.appendChild(grupoNombreElement);
             grupoItemDiv.appendChild(sesionHorarioElement);
             grupoItem.appendChild(grupoItemDiv);
@@ -124,6 +134,11 @@ document.addEventListener("DOMContentLoaded", async () => {
         li.addEventListener("click", () => {
             const visible = gruposContainer.style.display === "block";
             gruposContainer.style.display = visible ? "none" : "block";
+            if (!visible) {
+                li.style="background-color: #666666 !important;box-shadow: 4px 4px 10px #000000;"
+            } else {
+                li.style="background-color: #444444 !important;box-shadow: 2px 2px 5px #000000;"
+            }
         });
 
         classesList.appendChild(li);

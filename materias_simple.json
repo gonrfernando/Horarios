@@ -1225,5 +1225,532 @@
         }
       ]
     }
+  },
+  "Etica, Identidad y Profesion - DFH02": {
+    "Grupo: DFH02A": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH02A2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH02B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH02B2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH02B3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH02C": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02C2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02D2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02D3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02E2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02F": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH02F2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH02G": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH02G2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH02H": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: DFH02H2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: DFH02H3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: DFH02J": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH02K": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH02K2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH02K3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH02L": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH02LN": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02LN2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02LN3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02LN4": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02LN5": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02LN6": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02N": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02N2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02N3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02O": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02O2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02O3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02P": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 20,
+          "hora-fin": 22
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 20,
+          "hora-fin": 22
+        }
+      ]
+    }
   }
 }
