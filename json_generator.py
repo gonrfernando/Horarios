@@ -9,7 +9,10 @@ nombres = {
     "ESI3892" : "Bases de Datos Relacionales",
     "ESI3911" : "Logica y Estructuras Discretas",
     "ESI3127" : "Programacion Estructurada",
-    "DFH02" : "Etica, Identidad y Profesion"
+    "DFH02" : "Etica, Identidad y Profesion",
+    "MAF1118" : "Algebra Lineal",
+    "ESI3114" : "Interconexion de Redes",
+    "ESI3895" : "Gestion agil de proyectos",
 }
 
 def clean_text(t):

@@ -1752,5 +1752,496 @@
         }
       ]
     }
+  },
+  "Algebra Lineal - MAF1118": {
+    "Grupo: MAF1118H2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF1118A": {
+      "profesor": "GOMEZ SALAZAR DAVID",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF1118B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF1118B2": {
+      "profesor": "GARCIA SANCHEZ FERNANDO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF1118D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1118D2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1118D3": {
+      "profesor": "GOMEZ SALAZAR DAVID",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1118D4": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1118F": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1118F2": {
+      "profesor": "BAEZA ORNELAS RAUL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1118F3": {
+      "profesor": "GOMEZ GUTIERREZ HECTOR MANUEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1118G": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1118G2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF1118H": {
+      "profesor": "GOMEZ GUTIERREZ HECTOR MANUEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF1118I": {
+      "profesor": "BAEZA ORNELAS RAUL",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF1118I2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF1118K": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: MAF1118N": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
+  "Interconexion de Redes - ESI3114": {
+    "Grupo: ESI3114A": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3114D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3114E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    }
+  },
+  "Gestion agil de proyectos - ESI3895": {
+    "Grupo: ESI3895B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3895C": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3895C2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3895C3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3895D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3895I": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: ESI3895J": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: ESI3895L": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    }
   }
 }

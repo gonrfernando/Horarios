@@ -123,11 +123,13 @@ document.addEventListener("DOMContentLoaded", async () => {
                     selectedClassesList.removeChild(selectedItem);
                     const selected_groups = Array.from(selectedClassesList.children);
                     drawCalendar(selected_groups, materias);
+                    drawCalendar(selected_groups, materias);
                 });
                 selectedClassesList.appendChild(selectedItem);
                 const selected_groups = Array.from(selectedClassesList.children);
                 drawCalendar(selected_groups, materias);
             });
+            gruposContainer.appendChild(grupoItem);
             gruposContainer.appendChild(grupoItem);
         });
 
