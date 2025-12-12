@@ -6967,3 +6967,873 @@
 	 	
 	</div>
 </div>
+
+<div class="well" style="margin-bottom: 0 !important;border-radius: 0px;padding: 10px;">
+
+	<div style="color: #000;text-align: justify;" class="Fs14">
+		<label class="FontRobotoBold">Descripción:</label><br>
+		Las personas continuamente toman decisiones en asuntos cotidianos como el consumo, el trabajo, el ahorro y el ocio. Todas esas decisiones afectan profundamente la manera como una sociedad asigna sus recursos escasos y tienen, por tanto, consecuencias en variables cruciales como el crecimiento económico de un país, sus niveles de pobreza, desigualdad, contaminación ambiental y la productividad laboral.
+La microeconomía establece las bases conceptuales para la comprensión del comportamiento de los agentes económicos, como son los consumidores y los productores. Ofrece herramientas útiles para analizar los posibles resultados de la intervención gubernamental sobre la asignación y distribución de recursos escasos.
+En esta asignatura se analizan los mercados y los precios, los incentivos que enfrentan los agentes económicos, la eficiencia, la distribución, las fallas del mercado y sus implicaciones para la evolución de la economía.</div>
+
+	<div class="EmptyBox20"></div>
+	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion476597">
+	
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765970" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188A</h4>
+				</div>
+			</a>
+			<div id="collapse4765970" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">GONZALEZ OLIVARES DANIEL</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-109</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-109</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765971" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188B</h4>
+				</div>
+			</a>
+			<div id="collapse4765971" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">GARCIA VELAZQUEZ GERMAN</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-108</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-108</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">VIERNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765972" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188C</h4>
+				</div>
+			</a>
+			<div id="collapse4765972" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">Por Asignar</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">D-107</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">D-107</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">VIERNES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765973" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188D</h4>
+				</div>
+			</a>
+			<div id="collapse4765973" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">PASILLAS TORRES ELVIRA MIREYA</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-207</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-207</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765974" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188D2</h4>
+				</div>
+			</a>
+			<div id="collapse4765974" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">CASILLAS PONCE MARGARITA IDALIA</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765975" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188E</h4>
+				</div>
+			</a>
+			<div id="collapse4765975" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">DIAZ GUEVARA CRISTIAN ANDRES</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">B-102</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">B-102</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765976" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188E2</h4>
+				</div>
+			</a>
+			<div id="collapse4765976" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">GARCIA VELAZQUEZ GERMAN</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765977" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188F</h4>
+				</div>
+			</a>
+			<div id="collapse4765977" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">Por Asignar</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-105</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-105</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765978" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188F2</h4>
+				</div>
+			</a>
+			<div id="collapse4765978" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">GONZALEZ OLIVARES DANIEL</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse4765979" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188G</h4>
+				</div>
+			</a>
+			<div id="collapse4765979" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">OCAMPO FIGUEROA LUIS ERNESTO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">B-112</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">B-112</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse47659710" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188J</h4>
+				</div>
+			</a>
+			<div id="collapse47659710" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">JIMENEZ PEREZ MARIA GABRIELA</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">C-103</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 01:00 PM a: 03:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">C-103</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">VIERNES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse47659711" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188N</h4>
+				</div>
+			</a>
+			<div id="collapse47659711" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">Por Asignar</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-109</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">A-109</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476597" href="#collapse47659712" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM0188O2</h4>
+				</div>
+			</a>
+			<div id="collapse47659712" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">GALINDO ACOSTA ROBERTO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 	
+	</div>
+</div>
+
+<div class="well" style="margin-bottom: 0 !important;border-radius: 0px;padding: 10px;">
+
+	<div style="color: #000;text-align: justify;" class="Fs14">
+		<label class="FontRobotoBold">Descripción:</label><br>
+		La mercadotecnia de contenidos es una técnica fundamental dentro de la estrategia digital; consiste en la entrega de información de valor para atraer y adquirir una audiencia claramente definida con el objetivo de impulsar acción rentable del cliente. En esta asignatura los estudiantes aprenderán a desarrollar estrategias basadas en la generación de materiales (videos, textos, imágenes, reseñas), que hagan posible la entrega de información clave a audiencias específicas para fortalecer la oferta de valor de la organización y generar un mayor compromiso y lealtad a la marca.</div>
+
+	<div class="EmptyBox20"></div>
+	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion476899">
+	
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476899" href="#collapse4768990" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM3640A</h4>
+				</div>
+			</a>
+			<div id="collapse4768990" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">ECHEVERRY ROCHA CLAUDIO DARIO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">B-106</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">B-106</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476899" href="#collapse4768991" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM3640C</h4>
+				</div>
+			</a>
+			<div id="collapse4768991" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">RAMIREZ GUZMAN ELISA MARIA</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">D-110</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">D-110</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">VIERNES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476899" href="#collapse4768992" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM3640E</h4>
+				</div>
+			</a>
+			<div id="collapse4768992" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">QUEZADA RIOS IVAN</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 09:00 AM a: 11:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 	
+	</div>
+</div>
+
+<div class="well" style="margin-bottom: 0 !important;border-radius: 0px;padding: 10px;">
+
+	<div style="color: #000;text-align: justify;" class="Fs14">
+		<label class="FontRobotoBold">Descripción:</label><br>
+		En este taller el estudiante definirá las estrategias de palabras, intensiones e imágenes clave, descifrará las intenciones en búsqueda por voz, así como las conductas exhibidas por los usuarios en la selección de productos para buscadores especializados en comercio electrónico.</div>
+
+	<div class="EmptyBox20"></div>
+	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion476881">
+	
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476881" href="#collapse4768810" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM3634A</h4>
+				</div>
+			</a>
+			<div id="collapse4768810" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">GOMEZ RODRIGUEZ ABRIL</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">W-106</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476881" href="#collapse4768811" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM3634B</h4>
+				</div>
+			</a>
+			<div id="collapse4768811" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">LOPEZ HERMOSILLO LUIS FERNANDO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">W-202</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion476881" href="#collapse4768812" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: EAM3634B2</h4>
+				</div>
+			</a>
+			<div id="collapse4768812" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">LOPEZ HERMOSILLO LUIS FERNANDO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">W-201</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">VIERNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 	
+	</div>
+</div>

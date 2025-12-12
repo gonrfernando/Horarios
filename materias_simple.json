@@ -2258,5 +2258,281 @@
         }
       ]
     }
+  },
+  "Microeconomia - EAM0188": {
+    "Grupo: EAM0188A": {
+      "profesor": "GONZALEZ OLIVARES DANIEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: EAM0188B": {
+      "profesor": "GARCIA VELAZQUEZ GERMAN",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: EAM0188C": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: EAM0188D": {
+      "profesor": "PASILLAS TORRES ELVIRA MIREYA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: EAM0188D2": {
+      "profesor": "CASILLAS PONCE MARGARITA IDALIA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: EAM0188E": {
+      "profesor": "DIAZ GUEVARA CRISTIAN ANDRES",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: EAM0188E2": {
+      "profesor": "GARCIA VELAZQUEZ GERMAN",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: EAM0188F": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: EAM0188F2": {
+      "profesor": "GONZALEZ OLIVARES DANIEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: EAM0188G": {
+      "profesor": "OCAMPO FIGUEROA LUIS ERNESTO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: EAM0188J": {
+      "profesor": "JIMENEZ PEREZ MARIA GABRIELA",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: EAM0188N": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: EAM0188O2": {
+      "profesor": "GALINDO ACOSTA ROBERTO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
+  "Mercadotecnia de contenidos - EAM3640": {
+    "Grupo: EAM3640A": {
+      "profesor": "ECHEVERRY ROCHA CLAUDIO DARIO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: EAM3640C": {
+      "profesor": "RAMIREZ GUZMAN ELISA MARIA",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: EAM3640E": {
+      "profesor": "QUEZADA RIOS IVAN",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    }
+  },
+  "Taller Tecnologias Emergentes Mercadotecnia Buscadores - EAM3634": {
+    "Grupo: EAM3634A": {
+      "profesor": "GOMEZ RODRIGUEZ ABRIL",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: EAM3634B": {
+      "profesor": "LOPEZ HERMOSILLO LUIS FERNANDO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: EAM3634B2": {
+      "profesor": "LOPEZ HERMOSILLO LUIS FERNANDO",
+      "sesiones": [
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    }
   }
 }

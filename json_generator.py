@@ -13,6 +13,9 @@ nombres = {
     "MAF1118" : "Algebra Lineal",
     "ESI3114" : "Interconexion de Redes",
     "ESI3895" : "Gestion agil de proyectos",
+    "EAM0188" : "Microeconomia",
+    "EAM3640" : "Mercadotecnia de contenidos",
+    "EAM3634" : "Taller Tecnologias Emergentes Mercadotecnia Buscadores",
 }
 
 def clean_text(t):
