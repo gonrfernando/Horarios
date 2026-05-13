@@ -96,9 +96,8 @@ document.addEventListener("DOMContentLoaded", async () => {
             const deleteButton = document.createElement("button");
             deleteButton.className = "btn btn-sm btn-danger ms-2";
             deleteButton.textContent = "Eliminar";
-            deleteButton.addEventListener("click", (e) => {
-                e.stopPropagation();
-                document.cookie = `savedSchedule=${JSON.stringify(horario)}; expires=Thu, 01 Jan 1970 00:00:00 GMT`;
+            deleteButton.addEventListener("click", () => {
+                document.cookie = `savedSchedule${horario.nombre}=; path=/; max-age=0`;
                 saveScheduleDiv.remove();
             });
             saveScheduleDiv.appendChild(savedScheduleItem);
