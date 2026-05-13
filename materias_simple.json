@@ -1,626 +1,112 @@
 {
-  "Calculo Integral - MAF1121": {
-    "Grupo: MAF1121K": {
-      "profesor": "LOPEZ LOPEZ ELKIN",
+  "O Conocimiento y cultura - DFH04": {
+    "Grupo: DFH04A2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH04C": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH04D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH04E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH04F": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH04I": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: DFH04A": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 6,
           "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        }
-      ]
-    },
-    "Grupo: MAF1121A": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: MAF1121A2": {
-      "profesor": "GALLEGOS JIMENEZ ADOLFO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: MAF1121B": {
-      "profesor": "TORRES RUVALCABA HUGO ENRIQUE",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: MAF1121D": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121D2": {
-      "profesor": "GOMEZ LUGO LILIANA",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121D3": {
-      "profesor": "CASTAÑEDA TOLEDO EDUARDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121D4": {
-      "profesor": "DE LA LLAVE VILLAGOMEZ MARIA DE JESUS",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121E": {
-      "profesor": "MORENO MOJICA AUREA EDNA",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121E2": {
-      "profesor": "ORTIZ SILVA NANCY NALLELY",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121E3": {
-      "profesor": "ANCONA VALDEZ WILLIAM HUMBERTO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121E4": {
-      "profesor": "GARCIA SANCHEZ FERNANDO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121E5": {
-      "profesor": "DELGADO AGUIÑAGA JORGE ALEJANDRO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1121F": {
-      "profesor": "CASTAÑEDA TOLEDO EDUARDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1121F2": {
-      "profesor": "ANCONA VALDEZ WILLIAM HUMBERTO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1121F3": {
-      "profesor": "BEAS ZEPEDA JUAN CARLOS",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1121F4": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1121F5": {
-      "profesor": "ROLLERI DE LOZA FABIOLA",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1121G": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1121G2": {
-      "profesor": "GOMEZ LUGO LILIANA",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1121H": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: MAF1121H2": {
-      "profesor": "CASILLAS GONZALEZ JUAN MARTIN",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: MAF1121H3": {
-      "profesor": "ZEPEDA ALATORRE COSME",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: MAF1121I": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    }
-  },
-  "Fisica Universitaria - MAF3904": {
-    "Grupo: MAF3904B": {
-      "profesor": "ALONZO FLORES MIGUEL ANGEL",
-      "sesiones": [
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: MAF3904C": {
-      "profesor": "BEAS ZEPEDA JUAN CARLOS",
-      "sesiones": [
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: MAF3904C2": {
-      "profesor": "GONZALEZ FIGUEROA ARMANDO",
-      "sesiones": [
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF3904D": {
-      "profesor": "ZEPEDA ALATORRE COSME",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF3904E": {
-      "profesor": "GONZALEZ FIGUEROA ARMANDO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF3904E2": {
-      "profesor": "BARAJAS BARRAZA RAMON ENRIQUE",
-      "sesiones": [
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF3904G": {
-      "profesor": "SHINDO DAISUKE",
-      "sesiones": [
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF3904H": {
-      "profesor": "LOPEZ LOPEZ ELKIN",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: MAF3904H2": {
-      "profesor": "SHINDO DAISUKE",
-      "sesiones": [
-        {
-          "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: MAF3904J": {
-      "profesor": "LOPEZ LOPEZ ELKIN",
-      "sesiones": [
-        {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: MAF3904M": {
-      "profesor": "ZEPEDA ALATORRE COSME",
-      "sesiones": [
-        {
-          "dia": 3,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        }
-      ]
-    },
-    "Grupo: MAF3904O2": {
-      "profesor": "SHINDO DAISUKE",
-      "sesiones": [
-        {
-          "dia": 4,
-          "hora-inicio": 18,
           "hora-fin": 20
         }
       ]
-    }
-  },
-  "Probabilidad y Estadistica - MAF092": {
-    "Grupo: MAF092G": {
-      "profesor": "YEPEZ RIOS NORMA BEATRIZ",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
     },
-    "Grupo: MAF092A": {
-      "profesor": "ZEPEDA SAHAGUN CARLOS",
+    "Grupo: DFH04A3": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -634,8 +120,8 @@
         }
       ]
     },
-    "Grupo: MAF092B": {
-      "profesor": "TORRES MORAN JOSE PABLO",
+    "Grupo: DFH04B": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -649,23 +135,23 @@
         }
       ]
     },
-    "Grupo: MAF092B2": {
-      "profesor": "GARCIA SANCHEZ FERNANDO",
+    "Grupo: DFH04C2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
         },
         {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
         }
       ]
     },
-    "Grupo: MAF092D": {
-      "profesor": "YEPEZ RIOS NORMA BEATRIZ",
+    "Grupo: DFH04D2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -673,29 +159,29 @@
           "hora-fin": 11
         },
         {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
         }
       ]
     },
-    "Grupo: MAF092E": {
-      "profesor": "PARTIDA MUÑOZ MORAMAY DEL CARMEN",
+    "Grupo: DFH04E2": {
+      "profesor": "Por Asignar",
       "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
         {
           "dia": 4,
           "hora-inicio": 9,
           "hora-fin": 11
+        },
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
         }
       ]
     },
-    "Grupo: MAF092E2": {
-      "profesor": "ORTIZ CADENA ELIU BENJAMIN",
+    "Grupo: DFH04E3": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -703,14 +189,14 @@
           "hora-fin": 11
         },
         {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
         }
       ]
     },
-    "Grupo: MAF092F": {
-      "profesor": "VAZQUEZ SEGURA ANA LUCIA",
+    "Grupo: DFH04F2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -724,23 +210,38 @@
         }
       ]
     },
-    "Grupo: MAF092F2": {
-      "profesor": "GOMEZ LUGO LILIANA",
+    "Grupo: DFH04G": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
-          "dia": 1,
+          "dia": 2,
           "hora-inicio": 11,
           "hora-fin": 13
         },
         {
-          "dia": 3,
+          "dia": 4,
           "hora-inicio": 11,
           "hora-fin": 13
         }
       ]
     },
-    "Grupo: MAF092H": {
-      "profesor": "ORTIZ SILVA NANCY NALLELY",
+    "Grupo: DFH04G2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH04H": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -754,8 +255,23 @@
         }
       ]
     },
-    "Grupo: MAF092I": {
-      "profesor": "VAZQUEZ SEGURA ANA LUCIA",
+    "Grupo: DFH04H2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: DFH04I2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -769,23 +285,23 @@
         }
       ]
     },
-    "Grupo: MAF092J": {
-      "profesor": "GIANNUZZI GASPAR ANTONIO",
+    "Grupo: DFH04K": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
         },
         {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
         }
       ]
     },
-    "Grupo: MAF092K": {
-      "profesor": "FLORES JIMENEZ YARED ISMAEL",
+    "Grupo: DFH04K2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -798,86 +314,99 @@
           "hora-fin": 18
         }
       ]
-    }
-  },
-  "Bases de Datos Relacionales - ESI3892": {
-    "Grupo: ESI3892A": {
-      "profesor": "OROZCO GARCIA IÑAKI SEBASTIAN",
+    },
+    "Grupo: DFH04K3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH04K4": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
+          "hora-inicio": 16,
+          "hora-fin": 18
         },
         {
           "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
+          "hora-inicio": 16,
+          "hora-fin": 18
         }
       ]
     },
-    "Grupo: ESI3892A2": {
-      "profesor": "ESPARZA ESPINOSA DANIELA",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI3892B": {
-      "profesor": "OCHOA MARTINEZ LEONARDO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI3892B2": {
+    "Grupo: DFH04L": {
       "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
+          "hora-inicio": 16,
+          "hora-fin": 18
         },
         {
           "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
+          "hora-inicio": 16,
+          "hora-fin": 18
         }
       ]
     },
-    "Grupo: ESI3892H": {
-      "profesor": "VAZQUEZ PARTIDA JOSE PABLO",
+    "Grupo: DFH04L2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
         },
         {
-          "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
+          "dia": 5,
+          "hora-inicio": 16,
+          "hora-fin": 18
         }
       ]
     },
-    "Grupo: ESI3892N": {
-      "profesor": "NAFARRATE VAZQUEZ GABRIEL JOSE",
+    "Grupo: DFH04LN": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH04LN2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH04LN3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH04N": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -891,8 +420,8 @@
         }
       ]
     },
-    "Grupo: ESI3892N2": {
-      "profesor": "MENDEZ SANTANA JAZMIN NAHIL",
+    "Grupo: DFH04N2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -906,8 +435,8 @@
         }
       ]
     },
-    "Grupo: ESI3892O": {
-      "profesor": "GARCIA GARCIA PERLA MARINA",
+    "Grupo: DFH04O": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -921,8 +450,8 @@
         }
       ]
     },
-    "Grupo: ESI3892O2": {
-      "profesor": "LOPEZ ROBLES IVONNE DEL ROCIO",
+    "Grupo: DFH04O2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -936,8 +465,8 @@
         }
       ]
     },
-    "Grupo: ESI3892P": {
-      "profesor": "HERNANDEZ MARTINEZ JENNIFER ARIADNA",
+    "Grupo: DFH04P": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -952,114 +481,39 @@
       ]
     }
   },
-  "Logica y Estructuras Discretas - ESI3911": {
-    "Grupo: ESI3911A": {
-      "profesor": "VELASCO LOERA FERNANDO",
+  "O Contexto historico social - DFH03": {
+    "Grupo: DFH03C": {
+      "profesor": "Por Asignar",
       "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI3911B": {
-      "profesor": "VELASCO LOERA FERNANDO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI3911B2": {
-      "profesor": "DIAZ RODRIGUEZ MIRIAM",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI3911D": {
-      "profesor": "CERVANTES ALVAREZ JOSE FRANCISCO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
         {
           "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: ESI3911E": {
-      "profesor": "DIAZ RODRIGUEZ MIRIAM",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
+          "hora-inicio": 7,
+          "hora-fin": 9
         },
         {
-          "dia": 4,
+          "dia": 5,
           "hora-inicio": 9,
           "hora-fin": 11
         }
       ]
     },
-    "Grupo: ESI3911E2": {
-      "profesor": "DIAZ RODRIGUEZ HECTOR DANIEL",
+    "Grupo: DFH03C2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
         },
         {
-          "dia": 4,
+          "dia": 5,
           "hora-inicio": 9,
           "hora-fin": 11
         }
       ]
     },
-    "Grupo: ESI3911G": {
-      "profesor": "RAMIREZ RUIZ JOSE ABDON",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: ESI3911H": {
-      "profesor": "PIÑA ROMERO SILVIA",
+    "Grupo: DFH03H": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1072,11 +526,39 @@
           "hora-fin": 15
         }
       ]
-    }
-  },
-  "Programacion Estructurada - ESI3127": {
-    "Grupo: ESI3127A": {
-      "profesor": "ROMERO CORONADO JUAN PABLO",
+    },
+    "Grupo: DFH03L": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH03L2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH03A": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1090,7 +572,22 @@
         }
       ]
     },
-    "Grupo: ESI3127B": {
+    "Grupo: DFH03A2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH03B": {
       "profesor": "Por Asignar",
       "sesiones": [
         {
@@ -1105,8 +602,8 @@
         }
       ]
     },
-    "Grupo: ESI3127B2": {
-      "profesor": "PALOMO BRIONES GAMALIEL ABISAY",
+    "Grupo: DFH03B2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1120,8 +617,8 @@
         }
       ]
     },
-    "Grupo: ESI3127D": {
-      "profesor": "LOZA ANAYA MARIA TERESA",
+    "Grupo: DFH03D": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1135,8 +632,23 @@
         }
       ]
     },
-    "Grupo: ESI3127E": {
-      "profesor": "PIZA DAVILA HUGO IVAN",
+    "Grupo: DFH03D2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03E": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1150,8 +662,23 @@
         }
       ]
     },
-    "Grupo: ESI3127F": {
-      "profesor": "DOMINGUEZ PEREZ LUIS JULIAN",
+    "Grupo: DFH03E2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH03F": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1165,8 +692,53 @@
         }
       ]
     },
-    "Grupo: ESI3127G": {
-      "profesor": "GAYTAN GODINEZ LORENA",
+    "Grupo: DFH03F2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03F3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH03F4": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03G": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1180,23 +752,23 @@
         }
       ]
     },
-    "Grupo: ESI3127H": {
-      "profesor": "RODRIGUEZ FLORES TANIA DEL CARMEN",
+    "Grupo: DFH03G2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
         },
         {
           "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
+          "hora-inicio": 11,
+          "hora-fin": 13
         }
       ]
     },
-    "Grupo: ESI3127I": {
-      "profesor": "VELAZQUEZ AGUIRRE JOSE FRANCISCO",
+    "Grupo: DFH03I": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1210,7 +782,7 @@
         }
       ]
     },
-    "Grupo: ESI3127K": {
+    "Grupo: DFH03K": {
       "profesor": "Por Asignar",
       "sesiones": [
         {
@@ -1224,26 +796,151 @@
           "hora-fin": 18
         }
       ]
-    }
-  },
-  "Etica, Identidad y Profesion - DFH02": {
-    "Grupo: DFH02P2": {
-      "profesor": "CORRAL CHAGOLLA MIGUEL ANGEL",
+    },
+    "Grupo: DFH03K2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
-          "hora-inicio": 20,
-          "hora-fin": 22
+          "hora-inicio": 16,
+          "hora-fin": 18
         },
         {
-          "dia": 3,
-          "hora-inicio": 20,
-          "hora-fin": 22
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
         }
       ]
     },
+    "Grupo: DFH03LN": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03LN2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03LN3": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03LN4": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03LN5": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03LN6": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03LN7": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03LN8": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03N": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03N2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03O": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
+  "O Etica, Identidad y Profesion - DFH02": {
     "Grupo: DFH02A": {
-      "profesor": "VEGA VILLASEÑOR HERIBERTO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1258,7 +955,7 @@
       ]
     },
     "Grupo: DFH02A2": {
-      "profesor": "BENITEZ ZAVALA ARTURO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1273,7 +970,7 @@
       ]
     },
     "Grupo: DFH02B": {
-      "profesor": "ARANDA ARAIZA CAROLINA LAURA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1288,22 +985,7 @@
       ]
     },
     "Grupo: DFH02B2": {
-      "profesor": "ALVAREZ RODRIGUEZ MIGUEL ANGEL",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: DFH02B3": {
-      "profesor": "MUÑOZ MARQUEZ ELENA YAHAIRA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1318,7 +1000,7 @@
       ]
     },
     "Grupo: DFH02C": {
-      "profesor": "BENITEZ ZAVALA ARTURO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 3,
@@ -1333,7 +1015,7 @@
       ]
     },
     "Grupo: DFH02C2": {
-      "profesor": "ARANDA ARAIZA CAROLINA LAURA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 3,
@@ -1348,7 +1030,7 @@
       ]
     },
     "Grupo: DFH02D": {
-      "profesor": "QUINTERO TOSCANO MARIA GABRIELA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1363,7 +1045,7 @@
       ]
     },
     "Grupo: DFH02D2": {
-      "profesor": "HERNANDEZ ROMERO AURA PAULINA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1372,58 +1054,13 @@
         },
         {
           "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: DFH02D3": {
-      "profesor": "MORA RAMIREZ MARIA MERCEDES",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: DFH02E": {
-      "profesor": "SILVA DE LA ROSA MANUEL ANTONIO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: DFH02E2": {
-      "profesor": "MUÑOZ MARQUEZ ELENA YAHAIRA",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
           "hora-inicio": 9,
           "hora-fin": 11
         }
       ]
     },
     "Grupo: DFH02F": {
-      "profesor": "QUINTERO TOSCANO MARIA GABRIELA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1438,7 +1075,7 @@
       ]
     },
     "Grupo: DFH02F2": {
-      "profesor": "HERNANDEZ ROMERO AURA PAULINA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1453,7 +1090,7 @@
       ]
     },
     "Grupo: DFH02G": {
-      "profesor": "SOFFCHI MARCHINI MARCELA CRISTINA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1468,7 +1105,7 @@
       ]
     },
     "Grupo: DFH02G2": {
-      "profesor": "CARRASCO MACIAS ALBERTO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1483,7 +1120,7 @@
       ]
     },
     "Grupo: DFH02H": {
-      "profesor": "SOFFCHI MARCHINI MARCELA CRISTINA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1498,22 +1135,7 @@
       ]
     },
     "Grupo: DFH02H2": {
-      "profesor": "LUNA ARELLANO EMMANUEL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: DFH02H3": {
-      "profesor": "VALENCIA GARIBI ALVARO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1528,7 +1150,7 @@
       ]
     },
     "Grupo: DFH02J": {
-      "profesor": "MORALES VAZQUEZ MONICA PATRICIA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 3,
@@ -1543,7 +1165,7 @@
       ]
     },
     "Grupo: DFH02K": {
-      "profesor": "PEIXOTO SCHWAB ANDRES LUIS",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1558,7 +1180,7 @@
       ]
     },
     "Grupo: DFH02K2": {
-      "profesor": "LUNA ARELLANO EMMANUEL",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1573,7 +1195,7 @@
       ]
     },
     "Grupo: DFH02K3": {
-      "profesor": "MORALES PADILLA JUAN GABRIEL",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1587,23 +1209,8 @@
         }
       ]
     },
-    "Grupo: DFH02L": {
-      "profesor": "CORRAL CHAGOLLA MIGUEL ANGEL",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        }
-      ]
-    },
     "Grupo: DFH02LN": {
-      "profesor": "VELASCO CASAS IRMA JAZMI",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 6,
@@ -1613,7 +1220,7 @@
       ]
     },
     "Grupo: DFH02LN2": {
-      "profesor": "NAVARRO RAMOS JESUS ARTURO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 6,
@@ -1623,7 +1230,7 @@
       ]
     },
     "Grupo: DFH02LN3": {
-      "profesor": "VEGA VILLASEÑOR HERIBERTO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 6,
@@ -1633,7 +1240,7 @@
       ]
     },
     "Grupo: DFH02LN4": {
-      "profesor": "BENITEZ ZAVALA ARTURO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 6,
@@ -1643,17 +1250,7 @@
       ]
     },
     "Grupo: DFH02LN5": {
-      "profesor": "QUINTERO TOSCANO MARIA GABRIELA",
-      "sesiones": [
-        {
-          "dia": 6,
-          "hora-inicio": 16,
-          "hora-fin": 20
-        }
-      ]
-    },
-    "Grupo: DFH02LN6": {
-      "profesor": "GONZALEZ MEDINA JUAN JOSE",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 6,
@@ -1663,7 +1260,7 @@
       ]
     },
     "Grupo: DFH02N": {
-      "profesor": "LUNA ARELLANO EMMANUEL",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1678,7 +1275,7 @@
       ]
     },
     "Grupo: DFH02N2": {
-      "profesor": "CARRASCO MACIAS ALBERTO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1693,7 +1290,7 @@
       ]
     },
     "Grupo: DFH02N3": {
-      "profesor": "CORRAL CHAGOLLA MIGUEL ANGEL",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1708,7 +1305,7 @@
       ]
     },
     "Grupo: DFH02O": {
-      "profesor": "CARRASCO MACIAS ALBERTO",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1723,7 +1320,7 @@
       ]
     },
     "Grupo: DFH02O2": {
-      "profesor": "MUÑOZ MARQUEZ ELENA YAHAIRA",
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1738,7 +1335,22 @@
       ]
     },
     "Grupo: DFH02O3": {
-      "profesor": "LUNA ARELLANO EMMANUEL",
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH02O4": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -1753,7 +1365,22 @@
       ]
     },
     "Grupo: DFH02P": {
-      "profesor": "VALENCIA GARIBI ALVARO",
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 20,
+          "hora-fin": 22
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 20,
+          "hora-fin": 22
+        }
+      ]
+    },
+    "Grupo: DFH02P2": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -1768,29 +1395,9 @@
       ]
     }
   },
-  "Algebra Lineal - MAF1118": {
-    "Grupo: MAF1118H2": {
-      "profesor": "MIRANDA MONTOYA EDUARDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
+  "O Algebra Lineal - MAF1118": {
     "Grupo: MAF1118A": {
-      "profesor": "GARCIA SANCHEZ FERNANDO",
+      "profesor": "ZEPEDA SAHAGUN CARLOS",
       "sesiones": [
         {
           "dia": 1,
@@ -1810,26 +1417,6 @@
       ]
     },
     "Grupo: MAF1118B": {
-      "profesor": "ZEPEDA SAHAGUN CARLOS",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: MAF1118B2": {
       "profesor": "GOMEZ SALAZAR DAVID",
       "sesiones": [
         {
@@ -1850,26 +1437,6 @@
       ]
     },
     "Grupo: MAF1118D": {
-      "profesor": "PINEDA AMADOR YAZMIN",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1118D2": {
       "profesor": "VAZQUEZ PEREZ ABEL",
       "sesiones": [
         {
@@ -1889,8 +1456,8 @@
         }
       ]
     },
-    "Grupo: MAF1118D3": {
-      "profesor": "GOMEZ SALAZAR DAVID",
+    "Grupo: MAF1118D2": {
+      "profesor": "NUÑO SANCHEZ SAUL ALONSO",
       "sesiones": [
         {
           "dia": 1,
@@ -1909,16 +1476,16 @@
         }
       ]
     },
-    "Grupo: MAF1118D4": {
+    "Grupo: MAF1118E": {
       "profesor": "ORTIZ CADENA ELIU BENJAMIN",
       "sesiones": [
         {
-          "dia": 1,
+          "dia": 2,
           "hora-inicio": 9,
           "hora-fin": 11
         },
         {
-          "dia": 3,
+          "dia": 4,
           "hora-inicio": 9,
           "hora-fin": 11
         },
@@ -1930,7 +1497,7 @@
       ]
     },
     "Grupo: MAF1118F": {
-      "profesor": "MIRANDA MONTOYA EDUARDO",
+      "profesor": "ORTIZ CADENA ELIU BENJAMIN",
       "sesiones": [
         {
           "dia": 1,
@@ -1939,86 +1506,6 @@
         },
         {
           "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1118F2": {
-      "profesor": "BAEZA ORNELAS RAUL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1118F3": {
-      "profesor": "GOMEZ GUTIERREZ HECTOR MANUEL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1118G": {
-      "profesor": "RAMIREZ CONDADO EMANUEL",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF1118G2": {
-      "profesor": "SANCHEZ CAMACHO MARIA DE LOS ANGELES",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
           "hora-inicio": 11,
           "hora-fin": 13
         },
@@ -2030,7 +1517,7 @@
       ]
     },
     "Grupo: MAF1118H": {
-      "profesor": "GOMEZ GUTIERREZ HECTOR MANUEL",
+      "profesor": "MIRANDA MONTOYA EDUARDO",
       "sesiones": [
         {
           "dia": 1,
@@ -2050,27 +1537,7 @@
       ]
     },
     "Grupo: MAF1118I": {
-      "profesor": "SANCHEZ CAMACHO MARIA DE LOS ANGELES",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: MAF1118I2": {
-      "profesor": "ORTIZ CADENA ELIU BENJAMIN",
+      "profesor": "GOMEZ GUTIERREZ HECTOR MANUEL",
       "sesiones": [
         {
           "dia": 2,
@@ -2109,31 +1576,96 @@
         }
       ]
     },
-    "Grupo: MAF1118N": {
-      "profesor": "SANCHEZ SOTO CESAR ARTURO",
+    "Grupo: MAF1118G": {
+      "profesor": "GOMEZ GUTIERREZ HECTOR MANUEL",
       "sesiones": [
         {
-          "dia": 1,
-          "hora-inicio": 18,
-          "hora-fin": 20
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
         },
         {
-          "dia": 3,
-          "hora-inicio": 18,
-          "hora-fin": 20
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
         },
         {
           "dia": 5,
-          "hora-inicio": 18,
-          "hora-fin": 20
+          "hora-inicio": 11,
+          "hora-fin": 13
         }
       ]
     }
   },
-  "Gestion agil de proyectos - ESI3895": {
-    "Grupo: ESI3895B": {
-      "profesor": "SEDANO ARREOLA ROBERTO AUGUSTO",
+  "O Ecuaciones diferenciales - MAF3968": {
+    "Grupo: MAF3968A": {
+      "profesor": "TORRES RUVALCABA HUGO ENRIQUE",
       "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF3968A2": {
+      "profesor": "LOPEZ LOPEZ ELKIN",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF3968A3": {
+      "profesor": "ANDRADE HERNANDEZ GISELLE",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF3968A4": {
+      "profesor": "TEJEDA DAVALOS FABIOLA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF3968B": {
+      "profesor": "ALONZO FLORES MIGUEL ANGEL",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
         {
           "dia": 5,
           "hora-inicio": 7,
@@ -2141,19 +1673,29 @@
         }
       ]
     },
-    "Grupo: ESI3895C": {
-      "profesor": "ALVAREZ ANTONIO EDGAR APOLO",
+    "Grupo: MAF3968B2": {
+      "profesor": "RAMIREZ CONDADO EMANUEL",
       "sesiones": [
         {
-          "dia": 3,
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
           "hora-inicio": 7,
           "hora-fin": 9
         }
       ]
     },
-    "Grupo: ESI3895C2": {
-      "profesor": "SEDANO ARREOLA ROBERTO AUGUSTO",
+    "Grupo: MAF3968C": {
+      "profesor": "Por Asignar",
       "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
         {
           "dia": 5,
           "hora-inicio": 9,
@@ -2161,90 +1703,325 @@
         }
       ]
     },
-    "Grupo: ESI3895C3": {
-      "profesor": "MICHEL NIEVES ANDRES",
-      "sesiones": [
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI3895D": {
-      "profesor": "VIGNA PEREZ ALEJANDRO",
+    "Grupo: MAF3968D": {
+      "profesor": "ULLOA NANCY",
       "sesiones": [
         {
           "dia": 1,
           "hora-inicio": 9,
           "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
         }
       ]
     },
-    "Grupo: ESI3895I": {
-      "profesor": "Por Asignar",
+    "Grupo: MAF3968E": {
+      "profesor": "IBARRA OCHOA ANAROSA",
       "sesiones": [
         {
           "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3968E2": {
+      "profesor": "ZEPEDA ALATORRE COSME",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3968E3": {
+      "profesor": "AGUILERA PEREZ GERARDO ANTONIO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3968F": {
+      "profesor": "VAZQUEZ PEREZ ABEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF3968F2": {
+      "profesor": "GOMEZ SALAZAR DAVID",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF3968H": {
+      "profesor": "IBARRA OCHOA ANAROSA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
           "hora-inicio": 13,
           "hora-fin": 15
         }
       ]
     },
-    "Grupo: ESI3895J": {
-      "profesor": "GUILLEN FRANCO IVAN",
+    "Grupo: MAF3968H2": {
+      "profesor": "ZAPATA ROMANO JUAN JAVIER",
       "sesiones": [
         {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
         }
       ]
     },
-    "Grupo: ESI3895L": {
-      "profesor": "Por Asignar",
+    "Grupo: MAF3968H3": {
+      "profesor": "DELGADO AGUIÑAGA JORGE ALEJANDRO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF3968I": {
+      "profesor": "GARCIA SANCHEZ FERNANDO",
       "sesiones": [
         {
           "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF3968K": {
+      "profesor": "GONZALEZ FIGUEROA ARMANDO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: MAF3968L": {
+      "profesor": "AGUILERA PEREZ GERARDO ANTONIO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: MAF3968L2": {
+      "profesor": "BAEZA ORNELAS RAUL",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 5,
           "hora-inicio": 16,
           "hora-fin": 18
         }
       ]
     }
   },
-  "Interconexion de Redes - ESI3114": {
-    "Grupo: ESI3114E": {
-      "profesor": "MUNGUIA HERNANDEZ GERARDO JOSE",
+  "O Fisica Universitaria - MAF3904": {
+    "Grupo: MAF3904B": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
-          "dia": 1,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        }
-      ]
-    },
-    "Grupo: ESI3114A": {
-      "profesor": "LABRADA GOMEZ OSCAR EDUARDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
+          "dia": 2,
           "hora-inicio": 7,
           "hora-fin": 9
         }
       ]
     },
-    "Grupo: ESI3114D": {
-      "profesor": "FERNANDEZ LARIOS OSCAR FAVIO",
+    "Grupo: MAF3904C": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF3904C2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904D": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904D2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904E": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904E2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904G": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF3904G2": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF3904H": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF3904J": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF3904M": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 3,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: MAF2251D": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -2255,13 +2032,38 @@
           "dia": 3,
           "hora-inicio": 9,
           "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF2251F": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
         }
       ]
     }
   },
-  "Microeconomia - EAM0188": {
-    "Grupo: EAM0188A": {
-      "profesor": "GONZALEZ OLIVARES DANIEL",
+  "O Diseno de estructuras de datos - ESI3181": {
+    "Grupo: ESI3181A": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
@@ -2275,8 +2077,8 @@
         }
       ]
     },
-    "Grupo: EAM0188B": {
-      "profesor": "GARCIA VELAZQUEZ GERMAN",
+    "Grupo: ESI3181B": {
+      "profesor": "ROMERO CORONADO JUAN PABLO",
       "sesiones": [
         {
           "dia": 2,
@@ -2290,8 +2092,8 @@
         }
       ]
     },
-    "Grupo: EAM0188C": {
-      "profesor": "Por Asignar",
+    "Grupo: ESI3181C": {
+      "profesor": "GILBERT PEREZ DIEGO RODOLFO",
       "sesiones": [
         {
           "dia": 3,
@@ -2305,8 +2107,8 @@
         }
       ]
     },
-    "Grupo: EAM0188D": {
-      "profesor": "PASILLAS TORRES ELVIRA MIREYA",
+    "Grupo: ESI3181D": {
+      "profesor": "PIZA DAVILA HUGO IVAN",
       "sesiones": [
         {
           "dia": 1,
@@ -2320,68 +2122,117 @@
         }
       ]
     },
-    "Grupo: EAM0188D2": {
-      "profesor": "CASILLAS PONCE MARGARITA IDALIA",
+    "Grupo: ESI3181E": {
+      "profesor": "GILBERT PEREZ DIEGO RODOLFO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI3181G": {
+      "profesor": "ELVIRA VALENZUELA JOSE LUIS",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    }
+  },
+  "O Fundamentos de inteligencia artificial - ESI4216": {
+    "Grupo: ESI4216A": {
+      "profesor": "CALDERON BUENROSTRO ERICK RENE",
       "sesiones": [
         {
           "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: EAM0188E": {
-      "profesor": "DIAZ GUEVARA CRISTIAN ANDRES",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
+          "hora-inicio": 7,
+          "hora-fin": 9
         },
         {
           "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
+          "hora-inicio": 7,
+          "hora-fin": 9
         }
       ]
     },
-    "Grupo: EAM0188E2": {
-      "profesor": "GARCIA VELAZQUEZ GERMAN",
+    "Grupo: ESI4216B": {
+      "profesor": "VELASCO LOERA FERNANDO",
       "sesiones": [
         {
           "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
+          "hora-inicio": 7,
+          "hora-fin": 9
         },
         {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
         }
       ]
-    },
-    "Grupo: EAM0188F": {
+    }
+  },
+  "O Programacion orientada a objetos - ESI017": {
+    "Grupo: ESI017A": {
       "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
+          "hora-inicio": 7,
+          "hora-fin": 9
         },
         {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
         }
       ]
     },
-    "Grupo: EAM0188F2": {
-      "profesor": "GONZALEZ OLIVARES DANIEL",
+    "Grupo: ESI017B": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI017E": {
+      "profesor": "PIZA DAVILA HUGO IVAN",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: ESI017F": {
+      "profesor": "ZALDIVAR CARRILLO VICTOR HUGO",
       "sesiones": [
         {
           "dia": 1,
@@ -2395,8 +2246,8 @@
         }
       ]
     },
-    "Grupo: EAM0188G": {
-      "profesor": "OCAMPO FIGUEROA LUIS ERNESTO",
+    "Grupo: ESI017G": {
+      "profesor": "Por Asignar",
       "sesiones": [
         {
           "dia": 2,
@@ -2410,88 +2261,805 @@
         }
       ]
     },
-    "Grupo: EAM0188J": {
-      "profesor": "JIMENEZ PEREZ MARIA GABRIELA",
+    "Grupo: ESI017K": {
+      "profesor": "Por Asignar",
       "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: ESI017O": {
+      "profesor": "Por Asignar",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
+  "V Conocimiento y cultura - INT0002": {
+    "Grupo: INT0002A": {
+      "profesor": "OROZCO SANCHEZ ROCIO DE LAS NIEVES",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 13
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: INT0002B": {
+      "profesor": "TALAVERA DURON LUIS FRANCISCO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 13
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH04D": {
+      "profesor": "LOPEZ RODRIGUEZ FABIOLA ESMERALDA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH04F": {
+      "profesor": "SUAREZ CAZARES LUIS FERNANDO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH04K": {
+      "profesor": "RODRIGUEZ RAMIREZ DAILY",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH04LN": {
+      "profesor": "CARBALLAR VAZQUEZ CARLOS",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH04LN2": {
+      "profesor": "ROBLEDO MEJIA HECTOR EDUARDO",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
+  "V Contexto historico social - DFH03": {
+    "Grupo: DFH03A": {
+      "profesor": "SILVA MORENO CARLOS ALBERTO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH03A2": {
+      "profesor": "CASTRO CAMPOS FERNANDO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH03D": {
+      "profesor": "PIERRELUS FRANCOIS JEFFERSON FRENEL JUNIOR",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH03D2": {
+      "profesor": "VARGAS DELGADO ISADORA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH03F": {
+      "profesor": "ARIAS VAZQUEZ MARTHA OLIVIA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: DFH03H": {
+      "profesor": "GARCIA GUERRERO JOSE ALEJANDRO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
         {
           "dia": 3,
           "hora-inicio": 13,
           "hora-fin": 15
         },
         {
-          "dia": 5,
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: DFH03LN": {
+      "profesor": "RIVADENEYRA FENTANES RAFAEL",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: DFH03LN2": {
+      "profesor": "RAMOS MENDEZ ANGELICA MARIA",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
+  "V Etica, Identidad y Profesion - DFH02": {
+    "Grupo: DFH02A": {
+      "profesor": "ALVAREZ RODRIGUEZ MIGUEL ANGEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: DFH02D": {
+      "profesor": "CARRASCO MACIAS ALBERTO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02D2": {
+      "profesor": "MUÑOZ MARQUEZ ELENA YAHAIRA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: DFH02F": {
+      "profesor": "HERNANDEZ ROMERO AURA PAULINA",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
           "hora-inicio": 11,
           "hora-fin": 13
         }
       ]
     },
-    "Grupo: EAM0188N": {
+    "Grupo: DFH02K": {
+      "profesor": "CORRAL CHAGOLLA MIGUEL ANGEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH02K2": {
+      "profesor": "LUNA ARELLANO EMMANUEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    },
+    "Grupo: DFH02LN": {
+      "profesor": "BENITEZ ZAVALA ARTURO",
+      "sesiones": [
+        {
+          "dia": 6,
+          "hora-inicio": 16,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
+  "V Algebra Lineal - MAF1118": {
+    "Grupo: MAF1118D": {
+      "profesor": "MIRANDA MONTOYA EDUARDO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1118D2": {
+      "profesor": "SANCHEZ CAMACHO MARIA DE LOS ANGELES",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1118D3": {
+      "profesor": "VAZQUEZ PEREZ ABEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF1118F": {
+      "profesor": "GARCIA SANCHEZ FERNANDO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    }
+  },
+  "V Ecuaciones diferenciales - MAF3968": {
+    "Grupo: MAF3968A": {
+      "profesor": "ANDRADE HERNANDEZ GISELLE",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF3968D": {
+      "profesor": "GALLEGOS JIMENEZ ADOLFO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3968F": {
+      "profesor": "ALONZO FLORES MIGUEL ANGEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF3968A2": {
+      "profesor": "DE LA LLAVE VILLAGOMEZ MARIA DE JESUS",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    }
+  },
+  "V Fisica Universitaria - MAF3904": {
+    "Grupo: MAF3904D": {
+      "profesor": "LOPEZ LOPEZ ELKIN",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904E": {
       "profesor": "Por Asignar",
       "sesiones": [
         {
-          "dia": 1,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        }
-      ]
-    },
-    "Grupo: EAM0188O2": {
-      "profesor": "GALINDO ACOSTA ROBERTO",
-      "sesiones": [
-        {
           "dia": 2,
-          "hora-inicio": 18,
-          "hora-fin": 20
+          "hora-inicio": 9,
+          "hora-fin": 11
         },
         {
           "dia": 4,
-          "hora-inicio": 18,
-          "hora-fin": 20
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF3904F": {
+      "profesor": "LOPEZ LOPEZ ELKIN",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
         }
       ]
     }
   },
-  "Mercadotecnia de contenidos - EAM3640": {
-    "Grupo: EAM3640A": {
-      "profesor": "ECHEVERRY ROCHA CLAUDIO DARIO",
+  "V Programacion orientada a objetos - ESI3128": {
+    "Grupo: ESI3128D": {
+      "profesor": "ELVIRA VALENZUELA JOSE LUIS",
       "sesiones": [
         {
           "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
+          "hora-inicio": 9,
+          "hora-fin": 11
         },
         {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: EAM3640C": {
-      "profesor": "RAMIREZ GUZMAN ELISA MARIA",
-      "sesiones": [
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
         {
           "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: EAM3640E": {
-      "profesor": "QUEZADA RIOS IVAN",
-      "sesiones": [
-        {
-          "dia": 2,
           "hora-inicio": 9,
           "hora-fin": 11
         },
@@ -2499,38 +3067,6 @@
           "dia": 4,
           "hora-inicio": 9,
           "hora-fin": 11
-        }
-      ]
-    }
-  },
-  "Taller Tecnologias Emergentes Mercadotecnia Buscadores - EAM3634": {
-    "Grupo: EAM3634A": {
-      "profesor": "GOMEZ RODRIGUEZ ABRIL",
-      "sesiones": [
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: EAM3634B": {
-      "profesor": "LOPEZ HERMOSILLO LUIS FERNANDO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: EAM3634B2": {
-      "profesor": "LOPEZ HERMOSILLO LUIS FERNANDO",
-      "sesiones": [
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
         }
       ]
     }

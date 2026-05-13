@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "HTML Copier",
+    "version": "1.0",
+    "description": "Copia todo el HTML de la página actual al portapapeles con un clic",
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "clipboardWrite"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}

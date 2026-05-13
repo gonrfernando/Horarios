@@ -16,7 +16,16 @@ nombres = {
     "EAM0188" : "Microeconomia",
     "EAM3640" : "Mercadotecnia de contenidos",
     "EAM3634" : "Taller Tecnologias Emergentes Mercadotecnia Buscadores",
-}
+    "ESI3181" : "Diseno de estructuras de datos",
+    "MAF1123" : "Ecuaciones diferenciales",
+    "MAF3968" : "Ecuaciones diferenciales",
+    "ESI4216" : "Fundamentos de inteligencia artificial",
+    "ESI3188" : "Requerimientos de software",
+    "ESI017": "Programacion orientada a objetos",
+    "DFH04": "Conocimiento y cultura",
+    "DFH03": "Contexto historico social",
+    "INT0002": "Conocimiento y cultura",
+    'ESI3128': "Programacion orientada a objetos",}
 
 def clean_text(t):
     return " ".join(t.split()).strip()
@@ -111,8 +120,63 @@ for well in soup.find_all("div", class_="well"):
             "sesiones": sesiones
         }
 
-    materias_simple[codigo_materia] = grupos_data
+    materias_simple[f"O {codigo_materia}"] = grupos_data
+    
+    
+with open("html-materias-verano.txt", "r", encoding="utf-8") as f:
+    html = f.read()
 
+soup = BeautifulSoup(html, "html.parser")
+
+for well in soup.find_all("div", class_="well"):
+    panel_group = well.find("div", class_=lambda x: x and "panel-group" in x)
+    if not panel_group:
+        continue
+
+    codigo_materia = None
+    grupos_data = {}
+
+    for p in panel_group.find_all("div", class_="panel"):
+        titulo = p.select_one(".panel-title")
+        grupo_nombre = clean_text(titulo.get_text()) if titulo else "Sin grupo"
+
+        if not codigo_materia:
+            codigo_materia = nombres[extract_codigo(grupo_nombre)] + " - " + extract_codigo(grupo_nombre)
+        if not codigo_materia:
+            codigo_materia = extract_codigo(well.get_text()) or "MATERIA_DESCONOCIDA"
+
+        body = p.select_one(".panel-body")
+        profesor = "Desconocido"
+        sesiones = []
+
+        if body:
+            prof_label = body.find("label", string=re.compile(r"Profesor", re.I))
+            if prof_label:
+                sib = prof_label.find_next_sibling("label")
+                if sib:
+                    profesor = clean_text(sib.get_text())
+            bloques = body.find_all(
+                "div",
+                class_=lambda x: x and "FontRobotoLight" in x and "Fs16" in x and "BoldGray" in x
+            )
+            for b in bloques:
+                label = b.find("label", class_=lambda x: x and "FontRobotoBold" in x)
+                if not label:
+                    continue
+                key = clean_text(label.get_text().replace(":", ""))
+                if key.lower().startswith("ses"):
+                    val = label.find_next_sibling("label")
+                    if val:
+                        sesion_info = parse_horario(val.get_text())
+                        if sesion_info["dia"] is not None:
+                            sesiones.append(sesion_info)
+
+        grupos_data[grupo_nombre] = {
+            "profesor": profesor,
+            "sesiones": sesiones
+        }
+
+    materias_simple[f"V {codigo_materia}"] = grupos_data
 with open("materias_simple.json", "w", encoding="utf-8") as f:
     json.dump(materias_simple, f, ensure_ascii=False, indent=2)
 
