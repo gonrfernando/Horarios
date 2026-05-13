@@ -2292,6 +2292,38 @@
       ]
     }
   },
+  "O Requerimientos de software - ESI3188": {
+    "Grupo: ESI3188A": {
+      "profesor": "VILLALOBOS MANZO RODRIGO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3188B": {
+      "profesor": "TORRES BERNAL RAYMUNDO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    }
+  },
   "V Conocimiento y cultura - INT0002": {
     "Grupo: INT0002A": {
       "profesor": "OROZCO SANCHEZ ROCIO DE LAS NIEVES",

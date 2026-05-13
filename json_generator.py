@@ -175,7 +175,7 @@ for well in soup.find_all("div", class_="well"):
             "profesor": profesor,
             "sesiones": sesiones
         }
-
+    
     materias_simple[f"V {codigo_materia}"] = grupos_data
 with open("materias_simple.json", "w", encoding="utf-8") as f:
     json.dump(materias_simple, f, ensure_ascii=False, indent=2)

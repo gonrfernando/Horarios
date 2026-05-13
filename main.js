@@ -34,6 +34,7 @@ function drawCalendar(selected_groups, materias) {
                 if (nextSessionCell) {
                     const sessionDiv = document.createElement("div");
                     sessionDiv.className = "session";
+                    sessionDiv.style = "background-color: #555555; padding: 5px; border-radius: 4px;";
                     sessionDiv.textContent = `${codigo} - ${grupoNombre}`;
                     nextSessionCell.appendChild(sessionDiv);
                 }
@@ -45,11 +46,121 @@ function drawCalendar(selected_groups, materias) {
     });
 }
 
+function loadSavedSchedules(materias) {
+    console.log("Cargando horarios guardados...");
+    const savedScheduleCookie = document.cookie.split("; ").find(row => row.startsWith("savedSchedule"));
+    console.log(savedScheduleCookie);
+    if (savedScheduleCookie) {
+        const savedScheduleData = JSON.parse(savedScheduleCookie.split("=")[1]);
+        console.log(savedScheduleData);
+        const periodo = savedScheduleData.periodo;
+        const grupos = savedScheduleData.grupos;
+        const selectedClassesList = document.getElementById("selected-classes");
+        selectedClassesList.replaceChildren();
+        grupos.forEach(grupo => {
+            const selectedItem = document.createElement("li");
+            selectedItem.className = "list-group-item";
+            selectedItem.classList.add(grupo.codigo.substring(grupo.codigo.indexOf("-") + 1).trim());
+            selectedItem.dataset.codigo = grupo.codigo;
+            selectedItem.textContent = `${grupo.grupo}`;
+            selectedItem.addEventListener("click", () => {
+                selectedClassesList.removeChild(selectedItem);
+                const selected_groups = Array.from(selectedClassesList.children);
+                drawCalendar(selected_groups, materias);
+            });
+            selectedClassesList.appendChild(selectedItem);
+        });
+        drawCalendar(Array.from(selectedClassesList.children), materias);
+    } else {
+        alert("No se encontraron horarios guardados.");
+    }
+}
+
 document.addEventListener("DOMContentLoaded", async () => {
+
+    var horariosGuardados = [];
+    if (document.cookie) {
+        for (const cookie of document.cookie.split(";")) {
+            const scheduleData = JSON.parse(cookie.split("=")[1]);
+            horariosGuardados.push(scheduleData);
+        }
+        for (const horario of horariosGuardados) {
+            const saveScheduleDiv = document.createElement("div");
+            saveScheduleDiv.classList = "d-flex flex-row align-items-start justify-content-center";
+            const savedScheduleItem = document.createElement("li");
+            savedScheduleItem.className = "list-group-item w-75";
+            savedScheduleItem.textContent = horario.nombre;
+            savedScheduleItem.addEventListener("click", () => {
+                loadSavedSchedules(materias);
+            });
+            const deleteButton = document.createElement("button");
+            deleteButton.className = "btn btn-sm btn-danger ms-2";
+            deleteButton.textContent = "Eliminar";
+            deleteButton.addEventListener("click", (e) => {
+                e.stopPropagation();
+                document.cookie = `savedSchedule=${JSON.stringify(horario)}; expires=Thu, 01 Jan 1970 00:00:00 GMT`;
+                saveScheduleDiv.remove();
+            });
+            saveScheduleDiv.appendChild(savedScheduleItem);
+            saveScheduleDiv.appendChild(deleteButton);
+            document.getElementById("saved-schedules").appendChild(saveScheduleDiv);
+        }
+    }
+
+    var periodoSeleccionado = "Verano"; 
     const classesList = document.getElementById("classes");
+    const selectedClassesList = document.getElementById("selected-classes");
 
     const res = await fetch("materias_simple.json");
     const materias = await res.json();
+
+    const veranoContainer = document.createElement("li");
+    veranoContainer.className = "list-group mt-2 mb-2";
+    veranoContainer.textContent = "Verano";
+    veranoContainer.style.fontWeight = "bold";
+    veranoContainer.style.backgroundColor = "#292929";
+    veranoContainer.style.padding = "10px";
+    classesList.appendChild(veranoContainer);
+    const veranoMaterias = document.createElement("ul");
+    veranoMaterias.className = "list-group mt-2";
+    veranoMaterias.style.backgroundColor = "#292929";
+    veranoMaterias.style.padding = "10px";
+    veranoContainer.appendChild(veranoMaterias);
+
+    veranoContainer.addEventListener("click", () => {
+        if(periodoSeleccionado === "Verano") {
+            return;
+        }
+        periodoSeleccionado = "Verano";
+        veranoMaterias.style.display = veranoMaterias.style.display === "block" ? "none" : "block";
+        otonoMaterias.style.display = "none";
+        selectedClassesList.replaceChildren();
+        drawCalendar([], materias);
+    });
+
+    const otonoContainer = document.createElement("li");
+    otonoContainer.className = "list-group mt-2 mb-2";
+    otonoContainer.textContent = "Otoño";
+    otonoContainer.style.fontWeight = "bold";
+    otonoContainer.style.backgroundColor = "#292929";
+    otonoContainer.style.padding = "10px";
+    classesList.appendChild(otonoContainer);
+    const otonoMaterias = document.createElement("ul");
+    otonoMaterias.style.display = "none";
+    otonoMaterias.className = "list-group mt-2";
+    otonoMaterias.style.backgroundColor = "#292929";
+    otonoMaterias.style.padding = "10px";
+    otonoContainer.appendChild(otonoMaterias);  
+    otonoContainer.addEventListener("click", () => {
+        if(periodoSeleccionado === "Otoño") {
+            return;
+        }
+        periodoSeleccionado = "Otoño";
+        otonoMaterias.style.display = otonoMaterias.style.display === "block" ? "none" : "block";
+        veranoMaterias.style.display = "none";
+        selectedClassesList.replaceChildren();
+        drawCalendar([], materias);
+    });
 
     Object.entries(materias).forEach(([codigo, grupos]) => {
         const li = document.createElement("li");
@@ -108,7 +219,6 @@ document.addEventListener("DOMContentLoaded", async () => {
             grupoItem.appendChild(grupoItemDiv);
 
             grupoItem.addEventListener("click", () => {
-                const selectedClassesList = document.getElementById("selected-classes");
                 const selectedItem = document.createElement("li");
                 selectedItem.className = "list-group-item";
                 selectedItem.classList.add(codigo.substring(codigo.indexOf("-") + 1).trim());
@@ -143,9 +253,59 @@ document.addEventListener("DOMContentLoaded", async () => {
             }
         });
 
-        classesList.appendChild(li);
-        classesList.appendChild(gruposContainer);
+        if (codigo.startsWith("V")) {
+            veranoMaterias.appendChild(li);
+            veranoMaterias.appendChild(gruposContainer);
+        } else {
+            otonoMaterias.appendChild(li);
+            otonoMaterias.appendChild(gruposContainer);
+        }
 
     });
+
+    //-----------------------------------------------------------------------------------------------------------
+    // Guardar horario
+    //-----------------------------------------------------------------------------------------------------------
+
+    const saveScheduleButton = document.getElementById("save-schedule");
+    const savedSchedulesList = document.getElementById("saved-schedules");
+    saveScheduleButton.addEventListener("click", () => {
+        const selected_groups = Array.from(selectedClassesList.children).map(li => ({
+            codigo: li.dataset.codigo,
+            grupo: li.textContent.split(" - ")[0].trim()
+        }));
+        if (selected_groups.length === 0) {
+            alert("No hay grupos seleccionados para guardar.");
+            return;
+        }
+        let scheduleName = prompt("Nombre del horario:");
+        const scheduleData = {
+            nombre: scheduleName || "Horario guardado",
+            periodo: periodoSeleccionado,
+            grupos: selected_groups
+        };
+
+
+        document.cookie = `savedSchedule${scheduleData.nombre}=${JSON.stringify(scheduleData)}; path=/; max-age=31536000`; // Guarda por 1 año
+        const savedScheduleDiv = document.createElement("div");
+        savedScheduleDiv.classList = "d-flex flex-row align-items-start justify-content-center";
+        const savedScheduleItem = document.createElement("li");
+        savedScheduleItem.className = "list-group-item w-75";
+        savedScheduleItem.textContent = scheduleName || "Horario guardado";
+        savedScheduleItem.addEventListener("click", () => {
+            loadSavedSchedules(materias);
+        });
+        savedScheduleDiv.appendChild(savedScheduleItem);
+        const deleteButton = document.createElement("button");
+        deleteButton.className = "btn btn-sm btn-danger ms-2";
+        deleteButton.textContent = "Eliminar";
+        deleteButton.addEventListener("click", () => {
+            document.cookie = `savedSchedule${scheduleData.nombre}=; path=/; max-age=0`;
+            savedScheduleDiv.remove();
+        });
+        savedScheduleDiv.appendChild(deleteButton);
+        savedSchedulesList.appendChild(savedScheduleDiv);
+    });
+
 
 });

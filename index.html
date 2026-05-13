@@ -93,15 +93,25 @@
                         </tr>
                     </tbody>
                 </table>
+                <div class="d-flex justify-content-end">
+                    <li class="list-group mt-2 mb-2 p-2" id="save-schedule">Guardar Horario</li>
+                </div>
             </div>
         </div>
-        <div class="d-flex flex-column w-25 p-2" id="selected-classes-container">
-            <h5 style="color: white;">Grupos seleccionados:</h5>
-            <ul class="list-group" id="selected-classes">
-            </ul>
+        <div class="d-flex flex-column w-25 p-2">
+            <div class="d-flex flex-column" id="selected-classes-container">
+                <h5 style="color: white;">Grupos seleccionados:</h5>
+                <ul class="list-group" id="selected-classes">
+                </ul>
+            </div>
+            <div class="d-flex flex-column" id="saved-schedules-container">
+                <h5 style="color: white;">Horarios guardados:</h5>
+                <ul class="list-group" id="saved-schedules">
+                </ul>
+            </div>
         </div>
     </div>
-    <div class="text-left my-4" style="position: fixed; bottom: 0; left: 10px;">
+    <div class="text-left my-4" style="position: absolute; bottom: 0; left: 10px;">
         <span style="color: white; font-size: 0.8em; opacity: 0.2;">*Para la elaboración de este horario se utilizó información extraída manualmente de la sección de oferta de materias de la página de servicios ITESO, cualquier error o inconsistencia en los horarios es ajeno a la herramienta o su creador<br>*Esta herramienta es ajena al ITESO y su unico propósito es ser una ayuda para los alumnos en la planeación del siguiente semestre</span>
     </div>
 </body>

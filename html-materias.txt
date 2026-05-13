@@ -7097,3 +7097,107 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 	 	
 	</div>
 </div>
+
+<div class="well" style="margin-bottom: 0 !important;border-radius: 0px;padding: 10px;">
+
+	<div style="color: #000;text-align: justify;" class="Fs14">
+		<label class="FontRobotoBold">Descripción:</label><br>
+		En este curso el alumno podrá realizar el análisis de un producto de software para obtener, diseñar y detallar sus requerimientos, siguiendo un plan y empleando métodos, técnicas y herramientas vigentes en la industria. Al aprobar este curso, el alumno tendrá los conocimientos suficientes para comenzar a desempeñarse como un analista de negocio. Es conveniente, pero no necesario, que el alumno haya cursado alguna materia básica de programación estructurada u orientada a objetos para la comprensión adecuada de los conceptos clave del análisis de requerimientos.</div>
+
+	<div class="EmptyBox20"></div>
+	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion460388">
+	
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion460388" href="#collapse4603880" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3188A</h4>
+				</div>
+			</a>
+			<div id="collapse4603880" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">VILLALOBOS MANZO RODRIGO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">C-102</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Inglés</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">C-102</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Inglés</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion460388" href="#collapse4603881" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3188B</h4>
+				</div>
+			</a>
+			<div id="collapse4603881" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">TORRES BERNAL RAYMUNDO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">C-103</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">C-103</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">VIERNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 	
+	</div>
+</div>

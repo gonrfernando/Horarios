@@ -10,13 +10,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion458572">
 	
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585720" class="tabicon collapsed">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585720" class="tabicon collapsed" aria-expanded="false">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: INT0002A</h4>
 				</div>
 			</a>
-			<div id="collapse4585720" class="panel-collapse collapse">
+			<div id="collapse4585720" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -84,13 +84,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585721" class="tabicon collapsed">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585721" class="tabicon collapsed" aria-expanded="false">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: INT0002B</h4>
 				</div>
 			</a>
-			<div id="collapse4585721" class="panel-collapse collapse">
+			<div id="collapse4585721" class="panel-collapse collapse" aria-expanded="false">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -158,13 +158,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585722" class="tabicon collapsed">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585722" class="tabicon collapsed" aria-expanded="false">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04D</h4>
 				</div>
 			</a>
-			<div id="collapse4585722" class="panel-collapse collapse">
+			<div id="collapse4585722" class="panel-collapse collapse" aria-expanded="false">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -232,13 +232,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585723" class="tabicon collapsed">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585723" class="tabicon collapsed" aria-expanded="false">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04F</h4>
 				</div>
 			</a>
-			<div id="collapse4585723" class="panel-collapse collapse">
+			<div id="collapse4585723" class="panel-collapse collapse" aria-expanded="false">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -306,13 +306,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585724" class="tabicon collapsed">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585724" class="tabicon collapsed" aria-expanded="false">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04K</h4>
 				</div>
 			</a>
-			<div id="collapse4585724" class="panel-collapse collapse">
+			<div id="collapse4585724" class="panel-collapse collapse" aria-expanded="false">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -380,13 +380,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585725" class="tabicon collapsed">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585725" class="tabicon collapsed" aria-expanded="false">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04LN</h4>
 				</div>
 			</a>
-			<div id="collapse4585725" class="panel-collapse collapse">
+			<div id="collapse4585725" class="panel-collapse collapse" aria-expanded="false">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -412,13 +412,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585726" class="tabicon collapsed">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585726" class="tabicon collapsed" aria-expanded="false">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04LN2</h4>
 				</div>
 			</a>
-			<div id="collapse4585726" class="panel-collapse collapse">
+			<div id="collapse4585726" class="panel-collapse collapse" aria-expanded="false">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
