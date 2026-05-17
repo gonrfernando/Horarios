@@ -10,13 +10,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion458572">
 	
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585720" class="tabicon collapsed" aria-expanded="false">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585720" class="tabicon collapsed">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: INT0002A</h4>
 				</div>
 			</a>
-			<div id="collapse4585720" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+			<div id="collapse4585720" class="panel-collapse collapse">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -84,13 +84,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585721" class="tabicon collapsed" aria-expanded="false">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585721" class="tabicon collapsed">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: INT0002B</h4>
 				</div>
 			</a>
-			<div id="collapse4585721" class="panel-collapse collapse" aria-expanded="false">
+			<div id="collapse4585721" class="panel-collapse collapse">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -158,13 +158,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585722" class="tabicon collapsed" aria-expanded="false">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585722" class="tabicon collapsed">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04D</h4>
 				</div>
 			</a>
-			<div id="collapse4585722" class="panel-collapse collapse" aria-expanded="false">
+			<div id="collapse4585722" class="panel-collapse collapse">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -232,13 +232,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585723" class="tabicon collapsed" aria-expanded="false">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585723" class="tabicon collapsed">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04F</h4>
 				</div>
 			</a>
-			<div id="collapse4585723" class="panel-collapse collapse" aria-expanded="false">
+			<div id="collapse4585723" class="panel-collapse collapse">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -306,13 +306,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585724" class="tabicon collapsed" aria-expanded="false">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585724" class="tabicon collapsed">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04K</h4>
 				</div>
 			</a>
-			<div id="collapse4585724" class="panel-collapse collapse" aria-expanded="false">
+			<div id="collapse4585724" class="panel-collapse collapse">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -380,13 +380,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585725" class="tabicon collapsed" aria-expanded="false">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585725" class="tabicon collapsed">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04LN</h4>
 				</div>
 			</a>
-			<div id="collapse4585725" class="panel-collapse collapse" aria-expanded="false">
+			<div id="collapse4585725" class="panel-collapse collapse">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -412,13 +412,13 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 		</div>
 	 
 		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585726" class="tabicon collapsed" aria-expanded="false">
+			<a data-toggle="collapse" data-parent="#accordion458572" href="#collapse4585726" class="tabicon collapsed">
 				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
 					<span class="ui-icon ui-icon-triangle-1-e"></span>
 					<h4 class="panel-title">Grupo: DFH04LN2</h4>
 				</div>
 			</a>
-			<div id="collapse4585726" class="panel-collapse collapse" aria-expanded="false">
+			<div id="collapse4585726" class="panel-collapse collapse">
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
@@ -2258,6 +2258,91 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>
 							<label style="padding-left: 10px;">MIERCOLES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 	
+	</div>
+</div>
+<div class="well" style="margin-bottom: 0 !important;border-radius: 0px;padding: 10px;">
+
+	<div style="color: #000;text-align: justify;" class="Fs14">
+		<label class="FontRobotoBold">Descripción:</label><br>
+		Este curso pretende que los alumnos tomen conciencia, durante su trabajo de programación, de que la memoria  de una computadora tiene límites y sigue una organización. Manejar adecuadamente la memoria disponible, en  lugar de abusar de ella, es uno de los ingredientes para diseñar estructuras de datos dinámicas y algoritmos  eficientes en tiempo y espacio. Aprenderás a implementar aplicaciones de software en lenguaje C, que hagan uso eficiente de la memoria, para  manipular conjuntos de datos secuenciales de tamaño dinámico, generados por el programa, obtenidos de uno  o más archivos y/o que definan una política específica de acceso.</div>
+
+	<div class="EmptyBox20"></div>
+	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion460350">
+	
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion460350" href="#collapse4603500" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3933F</h4>
+				</div>
+			</a>
+			<div id="collapse4603500" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">ELVIRA VALENZUELA JOSE LUIS</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-105</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-105</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-105</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-105</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 11:00 AM a: 01:00 PM</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Idioma:</label>

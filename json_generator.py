@@ -17,6 +17,7 @@ nombres = {
     "EAM3640" : "Mercadotecnia de contenidos",
     "EAM3634" : "Taller Tecnologias Emergentes Mercadotecnia Buscadores",
     "ESI3181" : "Diseno de estructuras de datos",
+    "ESI3933" : "Diseño de estructuras de datos",
     "MAF1123" : "Ecuaciones diferenciales",
     "MAF3968" : "Ecuaciones diferenciales",
     "ESI4216" : "Fundamentos de inteligencia artificial",
@@ -25,7 +26,11 @@ nombres = {
     "DFH04": "Conocimiento y cultura",
     "DFH03": "Contexto historico social",
     "INT0002": "Conocimiento y cultura",
-    'ESI3128': "Programacion orientada a objetos",}
+    'ESI3128': "Programacion orientada a objetos",
+    "ESI3891": "Bases de datos no relacionales",
+    "ITE4241": "Introduccion a la ingenieria en IA",
+    "ESI116": "Analisis y diseño de procesos",
+    "ESI3913": "Organización y arquitectura de computadoras",}
 
 def clean_text(t):
     return " ".join(t.split()).strip()
