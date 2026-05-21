@@ -46,13 +46,15 @@ function drawCalendar(selected_groups, materias) {
     });
 }
 
-function loadSavedSchedules(materias) {
-    console.log("Cargando horarios guardados...");
-    const savedScheduleCookie = document.cookie.split("; ").find(row => row.startsWith("savedSchedule"));
-    console.log(savedScheduleCookie);
+function loadSavedSchedules(scheduleName, materias) {
+    console.log("Cargando horario:", scheduleName);
+    const savedScheduleCookie = document.cookie
+        .split("; ")
+        .find(row => row.startsWith(`savedSchedule${scheduleName}=`));
     if (savedScheduleCookie) {
-        const savedScheduleData = JSON.parse(savedScheduleCookie.split("=")[1]);
-        console.log(savedScheduleData);
+        const savedScheduleData = JSON.parse(
+            decodeURIComponent(savedScheduleCookie.split("=")[1])
+        );
         const periodo = savedScheduleData.periodo;
         const grupos = savedScheduleData.grupos;
         const selectedClassesList = document.getElementById("selected-classes");
@@ -60,7 +62,9 @@ function loadSavedSchedules(materias) {
         grupos.forEach(grupo => {
             const selectedItem = document.createElement("li");
             selectedItem.className = "list-group-item";
-            selectedItem.classList.add(grupo.codigo.substring(grupo.codigo.indexOf("-") + 1).trim());
+            selectedItem.classList.add(
+                grupo.codigo.substring(grupo.codigo.indexOf("-") + 1).trim()
+            );
             selectedItem.dataset.codigo = grupo.codigo;
             selectedItem.textContent = `${grupo.grupo}`;
             selectedItem.addEventListener("click", () => {
@@ -72,7 +76,7 @@ function loadSavedSchedules(materias) {
         });
         drawCalendar(Array.from(selectedClassesList.children), materias);
     } else {
-        alert("No se encontraron horarios guardados.");
+        alert("No se encontró el horario guardado.");
     }
 }
 
@@ -91,7 +95,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             savedScheduleItem.className = "list-group-item w-75";
             savedScheduleItem.textContent = horario.nombre;
             savedScheduleItem.addEventListener("click", () => {
-                loadSavedSchedules(materias);
+                loadSavedSchedules(horario.nombre, materias);
             });
             const deleteButton = document.createElement("button");
             deleteButton.className = "btn btn-sm btn-danger ms-2";
@@ -240,7 +244,6 @@ document.addEventListener("DOMContentLoaded", async () => {
                 drawCalendar(selected_groups, materias);
             });
             gruposContainer.appendChild(grupoItem);
-            gruposContainer.appendChild(grupoItem);
         });
 
         li.addEventListener("click", () => {
@@ -293,7 +296,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         savedScheduleItem.className = "list-group-item w-75";
         savedScheduleItem.textContent = scheduleName || "Horario guardado";
         savedScheduleItem.addEventListener("click", () => {
-            loadSavedSchedules(materias);
+            loadSavedSchedules(scheduleData.nombre, materias);
         });
         savedScheduleDiv.appendChild(savedScheduleItem);
         const deleteButton = document.createElement("button");
