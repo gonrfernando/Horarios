@@ -94,7 +94,7 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
-						<label style="padding-left: 10px;">TALAVERA DURON LUIS FRANCISCO</label>
+						<label style="padding-left: 10px;">JOSEPH HANDERSON</label>
 					</div>
 				 
 						<div class="EmptyBox20"></div>
@@ -2147,7 +2147,7 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="EmptyBox20"></div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI1</label>
+							<label style="padding-left: 10px;">J-LFISI2</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>
@@ -2161,7 +2161,7 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="EmptyBox20"></div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI1</label>
+							<label style="padding-left: 10px;">J-LFISI2</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>
@@ -2239,7 +2239,7 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="EmptyBox20"></div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI1</label>
+							<label style="padding-left: 10px;">J-LFISI2</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>
@@ -2253,7 +2253,7 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="EmptyBox20"></div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI1</label>
+							<label style="padding-left: 10px;">J-LFISI2</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>

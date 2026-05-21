@@ -2046,6 +2046,158 @@
       ]
     }
   },
+  "O Probabilidad y Estadistica - MAF092": {
+    "Grupo: MAF092G": {
+      "profesor": "VAZQUEZ SEGURA ANA LUCIA",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF092A": {
+      "profesor": "TORRES MORAN JOSE PABLO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF092A2": {
+      "profesor": "PAZ GOMEZ EDUARDO ANTONIO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF092B": {
+      "profesor": "GOMEZ LUGO LILIANA",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: MAF092D": {
+      "profesor": "YEPEZ RIOS NORMA BEATRIZ",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF092E": {
+      "profesor": "VAZQUEZ SEGURA ANA LUCIA",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 9,
+          "hora-fin": 11
+        }
+      ]
+    },
+    "Grupo: MAF092F": {
+      "profesor": "PARTIDA MUÑOZ MORAMAY DEL CARMEN",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: MAF092H": {
+      "profesor": "YEPEZ RIOS NORMA BEATRIZ",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF092I": {
+      "profesor": "PARTIDA MUÑOZ MORAMAY DEL CARMEN",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 13,
+          "hora-fin": 15
+        }
+      ]
+    },
+    "Grupo: MAF092L": {
+      "profesor": "GARCIA SANCHEZ FERNANDO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 16,
+          "hora-fin": 18
+        }
+      ]
+    }
+  },
   "O Bases de datos no relacionales - ESI3891": {
     "Grupo: ESI3891A": {
       "profesor": "RUIZ ROUNTREE LEOBARDO",
@@ -2125,7 +2277,7 @@
   },
   "O Diseno de estructuras de datos - ESI3181": {
     "Grupo: ESI3181A": {
-      "profesor": "Por Asignar",
+      "profesor": "GILBERT PEREZ DIEGO RODOLFO",
       "sesiones": [
         {
           "dia": 1,
@@ -2155,7 +2307,7 @@
       ]
     },
     "Grupo: ESI3181C": {
-      "profesor": "GILBERT PEREZ DIEGO RODOLFO",
+      "profesor": "PALOMO BRIONES GAMALIEL ABISAY",
       "sesiones": [
         {
           "dia": 3,
@@ -2262,21 +2414,9 @@
       ]
     }
   },
-  "O Introduccion a la ingenieria en IA - ITE4241": {
-    "Grupo: ITE4241F": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    }
-  },
   "O Programacion orientada a objetos - ESI017": {
     "Grupo: ESI017A": {
-      "profesor": "Por Asignar",
+      "profesor": "GAYTAN GODINEZ LORENA",
       "sesiones": [
         {
           "dia": 1,
@@ -2336,7 +2476,7 @@
       ]
     },
     "Grupo: ESI017G": {
-      "profesor": "Por Asignar",
+      "profesor": "ELVIRA VALENZUELA JOSE LUIS",
       "sesiones": [
         {
           "dia": 2,
@@ -2351,7 +2491,7 @@
       ]
     },
     "Grupo: ESI017K": {
-      "profesor": "Por Asignar",
+      "profesor": "ELVIRA VALENZUELA JOSE LUIS",
       "sesiones": [
         {
           "dia": 1,
@@ -2413,160 +2553,6 @@
       ]
     }
   },
-  "O Analisis y diseño de procesos - ESI116": {
-    "Grupo: ESI116B": {
-      "profesor": "DE LA GARZA MUSI ALEJANDRO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI116C": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: ESI116E": {
-      "profesor": "SALAS MEJIA RICARDO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: ESI116F": {
-      "profesor": "SALAS MEJIA RICARDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: ESI116G": {
-      "profesor": "PEREZ GARCIA ANA LAURA",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: ESI116N": {
-      "profesor": "TREVIÑO LEON LUIS EDUARDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        }
-      ]
-    },
-    "Grupo: ESI116P": {
-      "profesor": "CALZADA LOPEZ JOSE JUAN",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 20,
-          "hora-fin": 22
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 20,
-          "hora-fin": 22
-        }
-      ]
-    }
-  },
-  "O Organización y arquitectura de computadoras - ESI3913": {
-    "Grupo: ESI3913B": {
-      "profesor": "GUTIERREZ ARCE ALVARO",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI3913N": {
-      "profesor": "IBARRA ESPARZA JUANPABLO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        }
-      ]
-    },
-    "Grupo: ESI3913O": {
-      "profesor": "DEL RIO GARCIA RIOS SEBASTIAN",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        }
-      ]
-    }
-  },
   "V Conocimiento y cultura - INT0002": {
     "Grupo: INT0002A": {
       "profesor": "OROZCO SANCHEZ ROCIO DE LAS NIEVES",
@@ -2594,7 +2580,7 @@
       ]
     },
     "Grupo: INT0002B": {
-      "profesor": "TALAVERA DURON LUIS FRANCISCO",
+      "profesor": "JOSEPH HANDERSON",
       "sesiones": [
         {
           "dia": 1,
