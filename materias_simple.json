@@ -2553,6 +2553,53 @@
       ]
     }
   },
+  "O Desarrollo de aplicaciones y servicios web - ESI3124": {
+    "Grupo: ESI3124B": {
+      "profesor": "BARBA ORTEGA JORGE",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3124F": {
+      "profesor": "TEJEDA CHAVEZ EFRAIN ULISES",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: ESI3124N": {
+      "profesor": "ROBLES GIL URIEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
   "V Conocimiento y cultura - INT0002": {
     "Grupo: INT0002A": {
       "profesor": "OROZCO SANCHEZ ROCIO DE LAS NIEVES",

@@ -30,7 +30,8 @@ nombres = {
     "ESI3891": "Bases de datos no relacionales",
     "ITE4241": "Introduccion a la ingenieria en IA",
     "ESI116": "Analisis y diseño de procesos",
-    "ESI3913": "Organización y arquitectura de computadoras",}
+    "ESI3913": "Organización y arquitectura de computadoras",
+    "ESI3124": "Desarrollo de aplicaciones y servicios web"}
 
 def clean_text(t):
     return " ".join(t.split()).strip()
