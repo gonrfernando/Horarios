@@ -1130,11 +1130,11 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="EmptyBox20"></div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">A-107</label>
+							<label style="padding-left: 10px;">B-202</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">MARTES de: 04:00 PM a: 06:00 PM</label>
+							<label style="padding-left: 10px;">MARTES de: 06:00 PM a: 08:00 PM</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Idioma:</label>
@@ -1144,11 +1144,11 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="EmptyBox20"></div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">A-107</label>
+							<label style="padding-left: 10px;">B-202</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">VIERNES de: 04:00 PM a: 06:00 PM</label>
+							<label style="padding-left: 10px;">JUEVES de: 06:00 PM a: 08:00 PM</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Idioma:</label>
@@ -6220,48 +6220,6 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<label style="padding-left: 10px;">Por Asignar</label>
 					</div>
 				 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI4</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">LUNES de: 09:00 AM a: 11:00 AM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI4</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">MIERCOLES de: 09:00 AM a: 11:00 AM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI4</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">JUEVES de: 09:00 AM a: 11:00 AM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
 				</div>
 			</div>
 		</div>
@@ -6280,48 +6238,6 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<label style="padding-left: 10px;">Por Asignar</label>
 					</div>
 				 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI1</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">LUNES de: 11:00 AM a: 01:00 PM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI1</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">MIERCOLES de: 11:00 AM a: 01:00 PM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">J-LFISI1</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">VIERNES de: 11:00 AM a: 01:00 PM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
 				</div>
 			</div>
 		</div>
@@ -7044,6 +6960,247 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 
 	<div style="color: #000;text-align: justify;" class="Fs14">
 		<label class="FontRobotoBold">Descripción:</label><br>
+		En las últimas décadas, gracias al surgimiento de internet, ha crecido la interacción directa entre las personas y las bases de datos: cajeros automáticos, aparatos checadores de llegadas y salidas, dispositivos móviles, búsquedas de información en la web, compras en línea, consulta de estados de cuenta, transacciones, correos electrónicos y sistemas de venta. Aunque las aplicaciones existentes ocultan los detalles de acceso a los datos estructurados y la mayoría de la gente ni siquiera está consciente de que interactúa con bases de datos, el acceso a estas es una parte esencial de la vida de casi todas las personas actualmente.   Con base en lo anterior, es necesario que un profesional del área de tecnología cuente con las competencias necesarias para construir e interpretar modelos capaces de representar, extraer y manipular de forma clara, eficiente y sin ambigüedades información relevante en cualquier organización.  Debido a la importancia de la información en las organizaciones, e</div>
+
+	<div class="EmptyBox20"></div>
+	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion459767">
+	
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion459767" href="#collapse4597670" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3125A</h4>
+				</div>
+			</a>
+			<div id="collapse4597670" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">OROZCO GARCIA IÑAKI SEBASTIAN</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-206</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-206</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion459767" href="#collapse4597671" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3125A2</h4>
+				</div>
+			</a>
+			<div id="collapse4597671" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">HERRERA SOTO MARTIN SANTIAGO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">V-404</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">V-404</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion459767" href="#collapse4597672" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3125B</h4>
+				</div>
+			</a>
+			<div id="collapse4597672" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">OCHOA MARTINEZ LEONARDO</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-206</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-206</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">VIERNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion459767" href="#collapse4597673" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3125N</h4>
+				</div>
+			</a>
+			<div id="collapse4597673" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">NAFARRATE VAZQUEZ GABRIEL JOSE</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-206</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-206</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion459767" href="#collapse4597674" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3125O</h4>
+				</div>
+			</a>
+			<div id="collapse4597674" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">GARCIA GARCIA PERLA MARINA</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">D-305</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">D-305</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">JUEVES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 	
+	</div>
+</div>
+<div class="well" style="margin-bottom: 0 !important;border-radius: 0px;padding: 10px;">
+
+	<div style="color: #000;text-align: justify;" class="Fs14">
+		<label class="FontRobotoBold">Descripción:</label><br>
 		Este curso pretende que los alumnos tomen conciencia, durante su trabajo de programación, de que la memoria  de una computadora tiene límites y sigue una organización. Manejar adecuadamente la memoria disponible, en  lugar de abusar de ella, es uno de los ingredientes para diseñar estructuras de datos dinámicas y algoritmos  eficientes en tiempo y espacio. Aprenderás a implementar aplicaciones de software en lenguaje C, que hagan uso eficiente de la memoria, para  manipular conjuntos de datos secuenciales de tamaño dinámico, generados por el programa, obtenidos de uno  o más archivos y/o que definan una política específica de acceso.</div>
 
 	<div class="EmptyBox20"></div>
@@ -7080,7 +7237,7 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="EmptyBox20"></div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+							<label style="padding-left: 10px;">A-209</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>
@@ -7324,52 +7481,6 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 				</div>
 			</div>
 		</div>
-	 
-		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion460350" href="#collapse4603506" class="tabicon collapsed">
-				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
-					<span class="ui-icon ui-icon-triangle-1-e"></span>
-					<h4 class="panel-title">Grupo: ESI3181K</h4>
-				</div>
-			</a>
-			<div id="collapse4603506" class="panel-collapse collapse">
-				<div class="panel-body">
-					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-						<label class="FontRobotoBold Wid80px">Profesor:</label>
-						<label style="padding-left: 10px;">Por Asignar</label>
-					</div>
-				 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">T-107</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">LUNES de: 04:00 PM a: 06:00 PM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">T-107</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">JUEVES de: 04:00 PM a: 06:00 PM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-				</div>
-			</div>
-		</div>
 	 	
 	</div>
 </div>
@@ -7480,6 +7591,157 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 
 	<div style="color: #000;text-align: justify;" class="Fs14">
 		<label class="FontRobotoBold">Descripción:</label><br>
+		Los usuarios de las aplicaciones web interactuan a través de una interface gráfica que permite capturar y validar la información a ser almacenada en el servidor o bien desplegar la informacion recibida de este. El servidor es responsable de procesar la de información, administrar las bases de datos, administrar los repositorios de archivos, autentificar a los usuarios, entre otros.  El servidor debe procesar la petición del cliente y enviar la respuesta solicitada. 
+
+En esta asignatura harás uso de tus conocimientos de programación orientada a objetos y del diseño de bases de datos para crear proyectos más robustos, ya que conocerás y emplearás las principales herramientas y frameworks de desarrollo de aplicaciones web.  Podrás desarrollar tus propias aplicaciones y servicios web en donde se administren los recursos del servidor. Además, podrás desarrollar tus propias páginas web interactivas, permitiendo que el usuario almacene, visualice y modifique la información de una base de da</div>
+
+	<div class="EmptyBox20"></div>
+	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion460384">
+	
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion460384" href="#collapse4603840" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3124B</h4>
+				</div>
+			</a>
+			<div id="collapse4603840" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">BARBA ORTEGA JORGE</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MARTES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">VIERNES de: 07:00 AM a: 09:00 AM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion460384" href="#collapse4603841" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3124F</h4>
+				</div>
+			</a>
+			<div id="collapse4603841" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">TEJEDA CHAVEZ EFRAIN ULISES</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-206</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">T-206</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 11:00 AM a: 01:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 
+		<div class="panel ">
+			<a data-toggle="collapse" data-parent="#accordion460384" href="#collapse4603842" class="tabicon collapsed">
+				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
+					<span class="ui-icon ui-icon-triangle-1-e"></span>
+					<h4 class="panel-title">Grupo: ESI3124N</h4>
+				</div>
+			</a>
+			<div id="collapse4603842" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+						<label class="FontRobotoBold Wid80px">Profesor:</label>
+						<label style="padding-left: 10px;">ROBLES GIL URIEL</label>
+					</div>
+				 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">LUNES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+						<div class="EmptyBox20"></div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Salón:</label>
+							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Sesión:</label>
+							<label style="padding-left: 10px;">MIERCOLES de: 06:00 PM a: 08:00 PM</label>
+						</div>
+						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
+							<label class="FontRobotoBold Wid80px">Idioma:</label>
+							<label style="padding-left: 10px;">Español</label>
+						</div>
+					 
+				</div>
+			</div>
+		</div>
+	 	
+	</div>
+</div>
+<div class="well" style="margin-bottom: 0 !important;border-radius: 0px;padding: 10px;">
+
+	<div style="color: #000;text-align: justify;" class="Fs14">
+		<label class="FontRobotoBold">Descripción:</label><br>
 		Este curso atiende a la necesidad de la industria de desarrollo de software de aplicacion, de generar la mayor cantidad de productos de software en el menor tiempo posible, aprovechando las tecnologías de información y comunicación que permitan a equipos de trabajo geograficamente dispersos colaborar en un mismo proyecto de desarrollo. Para ello propone una metodología de programación denominada Programación Orientada a Objetos que permite reducir los tiempos de codificación a través de la descomposición del programa en componentes de software que sean fáciles de comprender, integrar, reutilizar y modificar/extender su funcionalidad.</div>
 
 	<div class="EmptyBox20"></div>
@@ -7542,7 +7804,7 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 				<div class="panel-body">
 					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 						<label class="FontRobotoBold Wid80px">Profesor:</label>
-						<label style="padding-left: 10px;">Por Asignar</label>
+						<label style="padding-left: 10px;">GAYTAN GODINEZ LORENA</label>
 					</div>
 				 
 						<div class="EmptyBox20"></div>
@@ -7900,155 +8162,6 @@ En este curso se problematiza cómo operan nuestras formas específicas de conoc
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Sesión:</label>
 							<label style="padding-left: 10px;">VIERNES de: 07:00 AM a: 09:00 AM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-				</div>
-			</div>
-		</div>
-	 	
-	</div>
-</div>
-<div class="well" style="margin-bottom: 0 !important;border-radius: 0px;padding: 10px;">
-
-	<div style="color: #000;text-align: justify;" class="Fs14">
-		<label class="FontRobotoBold">Descripción:</label><br>
-		Los usuarios de las aplicaciones web interactuan a través de una interface gráfica que permite capturar y validar la información a ser almacenada en el servidor o bien desplegar la informacion recibida de este. El servidor es responsable de procesar la de información, administrar las bases de datos, administrar los repositorios de archivos, autentificar a los usuarios, entre otros.  El servidor debe procesar la petición del cliente y enviar la respuesta solicitada. En esta asignatura harás uso de tus conocimientos de programación orientada a objetos y del diseño de bases de datos para crear proyectos más robustos, ya que conocerás y emplearás las principales herramientas y frameworks de desarrollo de aplicaciones web.  Podrás desarrollar tus propias aplicaciones y servicios web en donde se administren los recursos del servidor. Además, podrás desarrollar tus propias páginas web interactivas, permitiendo que el usuario almacene, visualice y modifique la información de una base de da</div>
-
-	<div class="EmptyBox20"></div>
-	<div class="panel-group ui-accordion ui-widget ui-helper-reset ui-hidden-container" id="accordion460384">
-	
-		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion460384" href="#collapse4603840" class="tabicon collapsed" aria-expanded="false">
-				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
-					<span class="ui-icon ui-icon-triangle-1-e"></span>
-					<h4 class="panel-title">Grupo: ESI3124B</h4>
-				</div>
-			</a>
-			<div id="collapse4603840" class="panel-collapse collapse" aria-expanded="false" style="height: 261px;">
-				<div class="panel-body">
-					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-						<label class="FontRobotoBold Wid80px">Profesor:</label>
-						<label style="padding-left: 10px;">BARBA ORTEGA JORGE</label>
-					</div>
-				 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">MARTES de: 07:00 AM a: 09:00 AM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">VIERNES de: 07:00 AM a: 09:00 AM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-				</div>
-			</div>
-		</div>
-	 
-		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion460384" href="#collapse4603841" class="tabicon collapsed" aria-expanded="false">
-				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
-					<span class="ui-icon ui-icon-triangle-1-e"></span>
-					<h4 class="panel-title">Grupo: ESI3124F</h4>
-				</div>
-			</a>
-			<div id="collapse4603841" class="panel-collapse collapse" aria-expanded="false" style="height: 261px;">
-				<div class="panel-body">
-					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-						<label class="FontRobotoBold Wid80px">Profesor:</label>
-						<label style="padding-left: 10px;">TEJEDA CHAVEZ EFRAIN ULISES</label>
-					</div>
-				 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">T-206</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">LUNES de: 11:00 AM a: 01:00 PM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">T-206</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">MIERCOLES de: 11:00 AM a: 01:00 PM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-				</div>
-			</div>
-		</div>
-	 
-		<div class="panel ">
-			<a data-toggle="collapse" data-parent="#accordion460384" href="#collapse4603842" class="tabicon collapsed" aria-expanded="false">
-				<div class="panel-heading ui-accordion-header ui-helper-reset ui-state-default ui-corner-top">
-					<span class="ui-icon ui-icon-triangle-1-e"></span>
-					<h4 class="panel-title">Grupo: ESI3124N</h4>
-				</div>
-			</a>
-			<div id="collapse4603842" class="panel-collapse collapse" aria-expanded="false" style="height: 261px;">
-				<div class="panel-body">
-					<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-						<label class="FontRobotoBold Wid80px">Profesor:</label>
-						<label style="padding-left: 10px;">ROBLES GIL URIEL</label>
-					</div>
-				 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">LUNES de: 06:00 PM a: 08:00 PM</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Idioma:</label>
-							<label style="padding-left: 10px;">Español</label>
-						</div>
-					 
-						<div class="EmptyBox20"></div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Salón:</label>
-							<label style="padding-left: 10px;">VIDEOCONFERENCIA</label>
-						</div>
-						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
-							<label class="FontRobotoBold Wid80px">Sesión:</label>
-							<label style="padding-left: 10px;">MIERCOLES de: 06:00 PM a: 08:00 PM</label>
 						</div>
 						<div class="FontRobotoLight Fs16 BoldGray ClearBoth Wid100">
 							<label class="FontRobotoBold Wid80px">Idioma:</label>

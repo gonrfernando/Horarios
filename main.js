@@ -119,6 +119,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const materias = await res.json();
 
     const veranoContainer = document.createElement("li");
+    veranoContainer.style.display = "none";
     veranoContainer.className = "list-group mt-2 mb-2";
     veranoContainer.textContent = "Verano";
     veranoContainer.style.fontWeight = "bold";

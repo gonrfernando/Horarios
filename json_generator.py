@@ -7,6 +7,7 @@ nombres = {
     "MAF3904" : "Fisica Universitaria",
     "MAF092" : "Probabilidad y Estadistica",
     "ESI3892" : "Bases de Datos Relacionales",
+    "ESI3125" : "Bases de Datos Relacionales",
     "ESI3911" : "Logica y Estructuras Discretas",
     "ESI3127" : "Programacion Estructurada",
     "DFH02" : "Etica, Identidad y Profesion",

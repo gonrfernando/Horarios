@@ -365,13 +365,13 @@
       "sesiones": [
         {
           "dia": 2,
-          "hora-inicio": 16,
-          "hora-fin": 18
+          "hora-inicio": 18,
+          "hora-fin": 20
         },
         {
-          "dia": 5,
-          "hora-inicio": 16,
-          "hora-fin": 18
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
         }
       ]
     },
@@ -2007,43 +2007,11 @@
     },
     "Grupo: MAF2251D": {
       "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
+      "sesiones": []
     },
     "Grupo: MAF2251F": {
       "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
+      "sesiones": []
     }
   },
   "O Probabilidad y Estadistica - MAF092": {
@@ -2275,6 +2243,83 @@
       ]
     }
   },
+  "O Bases de Datos Relacionales - ESI3125": {
+    "Grupo: ESI3125A": {
+      "profesor": "OROZCO GARCIA IÑAKI SEBASTIAN",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3125A2": {
+      "profesor": "HERRERA SOTO MARTIN SANTIAGO",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3125B": {
+      "profesor": "OCHOA MARTINEZ LEONARDO",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3125N": {
+      "profesor": "NAFARRATE VAZQUEZ GABRIEL JOSE",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    },
+    "Grupo: ESI3125O": {
+      "profesor": "GARCIA GARCIA PERLA MARINA",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 4,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
   "O Diseno de estructuras de datos - ESI3181": {
     "Grupo: ESI3181A": {
       "profesor": "GILBERT PEREZ DIEGO RODOLFO",
@@ -2365,21 +2410,6 @@
           "hora-fin": 13
         }
       ]
-    },
-    "Grupo: ESI3181K": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        }
-      ]
     }
   },
   "O Fundamentos de inteligencia artificial - ESI4216": {
@@ -2414,6 +2444,53 @@
       ]
     }
   },
+  "O Desarrollo de aplicaciones y servicios web - ESI3124": {
+    "Grupo: ESI3124B": {
+      "profesor": "BARBA ORTEGA JORGE",
+      "sesiones": [
+        {
+          "dia": 2,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        },
+        {
+          "dia": 5,
+          "hora-inicio": 7,
+          "hora-fin": 9
+        }
+      ]
+    },
+    "Grupo: ESI3124F": {
+      "profesor": "TEJEDA CHAVEZ EFRAIN ULISES",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 11,
+          "hora-fin": 13
+        }
+      ]
+    },
+    "Grupo: ESI3124N": {
+      "profesor": "ROBLES GIL URIEL",
+      "sesiones": [
+        {
+          "dia": 1,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        },
+        {
+          "dia": 3,
+          "hora-inicio": 18,
+          "hora-fin": 20
+        }
+      ]
+    }
+  },
   "O Programacion orientada a objetos - ESI017": {
     "Grupo: ESI017A": {
       "profesor": "GAYTAN GODINEZ LORENA",
@@ -2431,7 +2508,7 @@
       ]
     },
     "Grupo: ESI017B": {
-      "profesor": "Por Asignar",
+      "profesor": "GAYTAN GODINEZ LORENA",
       "sesiones": [
         {
           "dia": 2,
@@ -2549,859 +2626,6 @@
           "dia": 5,
           "hora-inicio": 7,
           "hora-fin": 9
-        }
-      ]
-    }
-  },
-  "O Desarrollo de aplicaciones y servicios web - ESI3124": {
-    "Grupo: ESI3124B": {
-      "profesor": "BARBA ORTEGA JORGE",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: ESI3124F": {
-      "profesor": "TEJEDA CHAVEZ EFRAIN ULISES",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: ESI3124N": {
-      "profesor": "ROBLES GIL URIEL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 18,
-          "hora-fin": 20
-        }
-      ]
-    }
-  },
-  "V Conocimiento y cultura - INT0002": {
-    "Grupo: INT0002A": {
-      "profesor": "OROZCO SANCHEZ ROCIO DE LAS NIEVES",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 13
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: INT0002B": {
-      "profesor": "JOSEPH HANDERSON",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 13
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: DFH04D": {
-      "profesor": "LOPEZ RODRIGUEZ FABIOLA ESMERALDA",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: DFH04F": {
-      "profesor": "SUAREZ CAZARES LUIS FERNANDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: DFH04K": {
-      "profesor": "RODRIGUEZ RAMIREZ DAILY",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        }
-      ]
-    },
-    "Grupo: DFH04LN": {
-      "profesor": "CARBALLAR VAZQUEZ CARLOS",
-      "sesiones": [
-        {
-          "dia": 6,
-          "hora-inicio": 16,
-          "hora-fin": 20
-        }
-      ]
-    },
-    "Grupo: DFH04LN2": {
-      "profesor": "ROBLEDO MEJIA HECTOR EDUARDO",
-      "sesiones": [
-        {
-          "dia": 6,
-          "hora-inicio": 16,
-          "hora-fin": 20
-        }
-      ]
-    }
-  },
-  "V Contexto historico social - DFH03": {
-    "Grupo: DFH03A": {
-      "profesor": "SILVA MORENO CARLOS ALBERTO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: DFH03A2": {
-      "profesor": "CASTRO CAMPOS FERNANDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: DFH03D": {
-      "profesor": "PIERRELUS FRANCOIS JEFFERSON FRENEL JUNIOR",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: DFH03D2": {
-      "profesor": "VARGAS DELGADO ISADORA",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: DFH03F": {
-      "profesor": "ARIAS VAZQUEZ MARTHA OLIVIA",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: DFH03H": {
-      "profesor": "GARCIA GUERRERO JOSE ALEJANDRO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 13,
-          "hora-fin": 15
-        }
-      ]
-    },
-    "Grupo: DFH03LN": {
-      "profesor": "RIVADENEYRA FENTANES RAFAEL",
-      "sesiones": [
-        {
-          "dia": 6,
-          "hora-inicio": 16,
-          "hora-fin": 20
-        }
-      ]
-    },
-    "Grupo: DFH03LN2": {
-      "profesor": "RAMOS MENDEZ ANGELICA MARIA",
-      "sesiones": [
-        {
-          "dia": 6,
-          "hora-inicio": 16,
-          "hora-fin": 20
-        }
-      ]
-    }
-  },
-  "V Etica, Identidad y Profesion - DFH02": {
-    "Grupo: DFH02A": {
-      "profesor": "ALVAREZ RODRIGUEZ MIGUEL ANGEL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: DFH02D": {
-      "profesor": "CARRASCO MACIAS ALBERTO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: DFH02D2": {
-      "profesor": "MUÑOZ MARQUEZ ELENA YAHAIRA",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: DFH02F": {
-      "profesor": "HERNANDEZ ROMERO AURA PAULINA",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: DFH02K": {
-      "profesor": "CORRAL CHAGOLLA MIGUEL ANGEL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        }
-      ]
-    },
-    "Grupo: DFH02K2": {
-      "profesor": "LUNA ARELLANO EMMANUEL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 16,
-          "hora-fin": 18
-        }
-      ]
-    },
-    "Grupo: DFH02LN": {
-      "profesor": "BENITEZ ZAVALA ARTURO",
-      "sesiones": [
-        {
-          "dia": 6,
-          "hora-inicio": 16,
-          "hora-fin": 20
-        }
-      ]
-    }
-  },
-  "V Algebra Lineal - MAF1118": {
-    "Grupo: MAF1118D": {
-      "profesor": "MIRANDA MONTOYA EDUARDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1118D2": {
-      "profesor": "SANCHEZ CAMACHO MARIA DE LOS ANGELES",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1118D3": {
-      "profesor": "VAZQUEZ PEREZ ABEL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF1118F": {
-      "profesor": "GARCIA SANCHEZ FERNANDO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 5,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    }
-  },
-  "V Ecuaciones diferenciales - MAF3968": {
-    "Grupo: MAF3968A": {
-      "profesor": "ANDRADE HERNANDEZ GISELLE",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    },
-    "Grupo: MAF3968D": {
-      "profesor": "GALLEGOS JIMENEZ ADOLFO",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF3968F": {
-      "profesor": "ALONZO FLORES MIGUEL ANGEL",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    },
-    "Grupo: MAF3968A2": {
-      "profesor": "DE LA LLAVE VILLAGOMEZ MARIA DE JESUS",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 7,
-          "hora-fin": 9
-        }
-      ]
-    }
-  },
-  "V Fisica Universitaria - MAF3904": {
-    "Grupo: MAF3904D": {
-      "profesor": "LOPEZ LOPEZ ELKIN",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF3904E": {
-      "profesor": "Por Asignar",
-      "sesiones": [
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        }
-      ]
-    },
-    "Grupo: MAF3904F": {
-      "profesor": "LOPEZ LOPEZ ELKIN",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    }
-  },
-  "V Diseño de estructuras de datos - ESI3933": {
-    "Grupo: ESI3933F": {
-      "profesor": "ELVIRA VALENZUELA JOSE LUIS",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 11,
-          "hora-fin": 13
-        }
-      ]
-    }
-  },
-  "V Programacion orientada a objetos - ESI3128": {
-    "Grupo: ESI3128D": {
-      "profesor": "ELVIRA VALENZUELA JOSE LUIS",
-      "sesiones": [
-        {
-          "dia": 1,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 2,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 3,
-          "hora-inicio": 9,
-          "hora-fin": 11
-        },
-        {
-          "dia": 4,
-          "hora-inicio": 9,
-          "hora-fin": 11
         }
       ]
     }
